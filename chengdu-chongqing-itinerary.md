@@ -47,6 +47,7 @@
 | Zhangjiajie (张家界) | Forest Park (张家界国家森林公园) entrance + Bailong Elevator (百龙天梯)/cable cars | Official WeChat mini-program "张家界国家森林公园" or Trip.com/Klook |
 | Zhangjiajie (张家界) | Tianmen Mountain (天门山) cable car (timed-entry) | Official site tianmenshan.com or WeChat mini-program "天门山", or Trip.com/Klook |
 | Zhangjiajie (张家界) | Grand Canyon (大峡谷) Glass Bridge (玻璃桥) (timed-entry) | Official WeChat mini-program "张家界大峡谷" or Trip.com/Klook |
+| Zhangjiajie (张家界) | 72 Strange Buildings (72奇楼) night ticket | Trip.com/Klook or on-site (low season, less urgent) |
 | Zhangjiajie (张家界) → Chongqing (重庆) | High-speed rail | 12306 or Trip.com |
 | Chongqing (重庆) | Chongqing ↔ Wulong (武隆) high-speed rail | 12306 or Trip.com |
 | Chongqing (重庆) | Wulong Three Natural Bridges (天生三桥) entrance | Trip.com/Klook or official WeChat mini-program "武隆旅游" |
@@ -191,7 +192,10 @@
 | 08:30–10:00 | World's longest cable car ride up | **Timed-entry ticket — must be pre-booked online** |
 | 10:00–14:00 | Glass skywalk, Tianmen Cave (天门洞), 99-Bend Heaven-Linking Avenue (通天大道) viewpoint | — |
 | 14:00–15:30 | Descend (cable car or shuttle bus down the 99 bends) | Included in ticket |
-| Afternoon | Free time / rest | — |
+| 15:30–16:30 | Return to hotel, freshen up | Walk/short bus |
+| 17:00–17:20 | To **72 Strange Buildings (72奇楼)** | Public bus No.7/16/17 (~15–20 min from city center) |
+| 17:20–21:30 | **72 Strange Buildings (72奇楼)** — world's tallest stilted building (Guinness record), lit up at night with themed light shows | Night ticket ~¥88 (16:30–22:00) — **recommend pre-booking online**; free performances run after 18:00, optional to skip per your no-shows preference, the lit-up building itself is the highlight |
+| ~22:00 | Return to hotel | Public bus |
 
 ### Day 4 — 23 Nov: Grand Canyon + Glass Bridge (AM) → Furong Town (PM/evening)
 | Time | Activity | Transport / Notes |
@@ -209,7 +213,7 @@
 | Late morning–afternoon | High-speed rail to Chongqing | ~4–4.5 hrs; **book in advance** |
 | Evening | Arrive Chongqing, check in | — |
 
-**Ticket notes for Zhangjiajie:** Forest Park entrance (covers Yuanjiajie/Tianzi Mtn/Yangjiajie) and Bailong Elevator/cable cars — pre-book online. Tianmen Mountain cable car is timed-entry — must pre-book. Grand Canyon Glass Bridge — timed-entry, must pre-book. Furong Town — small entrance fee, no pre-booking needed. Zhangjiajie–Chongqing HSR — book in advance.
+**Ticket notes for Zhangjiajie:** Forest Park entrance (covers Yuanjiajie/Tianzi Mtn/Yangjiajie) and Bailong Elevator/cable cars — pre-book online. Tianmen Mountain cable car is timed-entry — must pre-book. Grand Canyon Glass Bridge — timed-entry, must pre-book. 72 Strange Buildings night ticket — recommend pre-booking, covers the light show. Furong Town — small entrance fee, no pre-booking needed. Zhangjiajie–Chongqing HSR — book in advance.
 
 *Note: Fenghuang Ancient Town (凤凰古城) is on hold — see decision needed at the end of this document.*
 
