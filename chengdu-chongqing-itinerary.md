@@ -7,12 +7,12 @@
 
 | City | Dates |
 |---|---|
-| Chengdu (成都) | 13 – 15 Nov |
-| Jiuzhaigou (九寨沟) | 15 – 17 Nov |
-| Xi'An (西安) | 17 – 19 Nov |
-| Zhangjiajie (张家界) | 19 – 23 Nov |
-| Fenghuang Ancient Town (凤凰古城) | 23 – 24 Nov |
-| Chongqing (重庆) | 24 – 27 Nov |
+| [Chengdu (成都)](#chengdu) | 13 – 15 Nov |
+| [Jiuzhaigou (九寨沟)](#jiuzhaigou) | 15 – 17 Nov |
+| [Xi'An (西安)](#xian) | 17 – 19 Nov |
+| [Zhangjiajie (张家界)](#zhangjiajie) | 19 – 23 Nov |
+| [Fenghuang Ancient Town (凤凰古城)](#fenghuang) | 23 – 24 Nov |
+| [Chongqing (重庆)](#chongqing) | 24 – 27 Nov |
 
 **General rules applied:** scenery-focused, no bars/nightclubs/shows, minimize transit time between spots, prefer bus > metro/subway > train, avoid Didi/taxis, include beautiful night-view spots, flag any tickets needing pre-booking.
 
@@ -66,6 +66,7 @@
 
 ---
 
+<a id="chengdu"></a>
 ## Chengdu 成都 (13 – 15 Nov)
 
 **Hotel:** SOHO我的寓所 (SOHO Wode Yusuo), **四川省成都市锦江区天仙桥北路1号 / No. 1 Tianxianqiao North Road, Jinjiang District**  
@@ -122,6 +123,7 @@
 
 ---
 
+<a id="jiuzhaigou"></a>
 ## Jiuzhaigou 九寨沟 (15 – 17 Nov)
 
 **Hotel:** **Huodiba Bianbian Street (火地坝边边街)**, Jiuzhaigou, Sichuan 623402 / **四川省九寨沟县漳扎镇火地坝边边街**  
@@ -175,6 +177,7 @@
 
 ---
 
+<a id="xian"></a>
 ## Xi'An 西安 (17 – 19 Nov)
 
 **Hotel base:** 5th Floor, Zhonghuan Plaza, No. 48 West Street, Lianhu District, Xi'An, Shaanxi, China  
@@ -235,12 +238,13 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 
 ---
 
-## Zhangjiajie 张家界 & Fenghuang 凤凰古城 (19 – 24 Nov)
+<a id="zhangjiajie"></a>
+## Zhangjiajie 张家界 (19 – 23 Nov)
 
 *(19 Nov evening arrival already covered at the end of the Xi'An section — check-in, dinner, rest)*
 
 
-### Entrance tickets — Zhangjiajie & Fenghuang (adult full price, Nov 2026)
+### Entrance tickets — Zhangjiajie (adult full price, Nov 2026)
 | Place / required scenic transport | Adult fee | What it covers | Booking note |
 |---|---:|---|---|
 | **Zhangjiajie National Forest Park / Wulingyuan core (张家界国家森林公园 / 武陵源核心景区)** | **¥240** | 2026 practical **scenic-area + eco-bus** ticket used for this route | Pre-book, real-name; park ticket is multi-day valid, but this itinerary uses it on 20 Nov |
@@ -251,7 +255,6 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **72 Strange Buildings (七十二奇楼) night ticket** | **¥88** | Night entry from 16:30 | Pre-book recommended |
 | **Zhangjiajie Grand Canyon + Glass Bridge (张家界大峡谷玻璃桥), B route** | **¥219** | Glass Bridge + full canyon route + core included services | **Timed entry; pre-book** |
 | **Furong Town (芙蓉镇)** | **¥108** | Scenic-town admission | Ticketed — not free; ticket often includes scheduled performances, which you can ignore/skip |
-| **Fenghuang Ancient Town (凤凰古城)** | **Free** | Streets, riverside, Rainbow Bridge exterior/public old-town areas | Individual museums/boat rides are optional paid extras |
 | **Planned required subtotal** | **¥1,085/person** | Forest Park ¥240 + Bailong ¥65 + Tianzi cable ¥72 + Tianmen ¥288 + glass skywalk ¥5 + 72Q ¥88 + Grand Canyon B ¥219 + Furong ¥108 | **¥2,170 for 2 travellers** |
 
 **Important correction:** Bailong Elevator and Tianzi Mountain Cableway are **not included** in the Forest Park admission/eco-bus ticket; they are separate scenic-transport tickets.
@@ -287,6 +290,14 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | 14:00–19:00 | Furong Town — stilted houses, waterfall through town, evening lights | **Adult ticket ¥108**; stay till dusk — waterfall + old town beautifully lit at night |
 | 19:00–20:30 | Return to Zhangjiajie city | Bus |
 
+<a id="fenghuang"></a>
+## Fenghuang Ancient Town 凤凰古城 (23 – 24 Nov)
+
+### Entrance tickets — Fenghuang (adult full price, Nov 2026)
+| Place | Adult fee | What it covers | Booking note |
+|---|---:|---|---|
+| **Fenghuang Ancient Town (凤凰古城)** | **Free** | Streets, riverside, Rainbow Bridge exterior/public old-town areas | Individual museums/boat rides are optional paid extras |
+
 ### Day 4 — 23 Nov: Travel to Fenghuang Ancient Town
 | Time | Activity | Transport / Notes |
 |---|---|---|
@@ -308,9 +319,10 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 
 ---
 
+<a id="chongqing"></a>
 ## Chongqing 重庆 (24 – 27 Nov)
 
-*(24 Nov evening: arrival from Zhangjiajie, check-in)*
+*(24 Nov evening: arrival from Fenghuang Ancient Town, check-in)*
 
 
 ### Entrance tickets — Chongqing (adult full price, Nov 2026)
