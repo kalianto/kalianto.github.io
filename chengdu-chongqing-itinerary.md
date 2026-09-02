@@ -3,14 +3,15 @@
 **Arrival:** 13 Nov, 12:00 PM — Chengdu Shuangliu Int'l Airport (成都双流国际机场)
 **Departure:** 27 Nov, 5:00 PM — Chongqing Jiangbei Int'l Airport (重庆江北国际机场)
 
-**Route:** Chengdu (成都) → Jiuzhaigou (九寨沟) → Xi'An (西安) (transit via Chengdu) → Zhangjiajie (张家界) → Chongqing (重庆)
+**Route:** Chengdu (成都) → Jiuzhaigou (九寨沟) → Xi'An (西安) (transit via Chengdu) → Zhangjiajie (张家界) → Fenghuang Ancient Town (凤凰古城) → Chongqing (重庆)
 
 | City | Dates |
 |---|---|
 | Chengdu (成都) | 13 – 15 Nov |
 | Jiuzhaigou (九寨沟) | 15 – 17 Nov |
 | Xi'An (西安) | 17 – 19 Nov |
-| Zhangjiajie (张家界) | 19 – 24 Nov |
+| Zhangjiajie (张家界) | 19 – 23 Nov |
+| Fenghuang Ancient Town (凤凰古城) | 23 – 24 Nov |
 | Chongqing (重庆) | 24 – 27 Nov |
 
 **General rules applied:** scenery-focused, no bars/nightclubs/shows, minimize transit time between spots, prefer bus > metro/subway > train, avoid Didi/taxis, include beautiful night-view spots, flag any tickets needing pre-booking.
@@ -23,6 +24,7 @@
 | Jiuzhaigou (九寨沟) | **Jiuzhaigou valley town (Zangzu/Tibetan town)**, near the park entrance | Shortest access for the required early-morning park entry |
 | Xi'An (西安) | **Inside the City Wall (西安城墙), near Bell Tower (钟楼)** | Walking distance to Muslim Quarter & Bell/Drum Tower; easy metro/bus to Terracotta Army and City Wall access points |
 | Zhangjiajie (张家界) | **Zhangjiajie city center** (near Tianmen Mountain (天门山) cable car base / bus station) | Convenient for Tianmen Mountain directly; reasonable bus access to Wulingyuan (武陵源), Grand Canyon, and the West Railway Station |
+| Fenghuang Ancient Town (凤凰古城) | **Inside or immediately beside the Ancient Town, near the Tuo River (沱江) / Rainbow Bridge (虹桥)** | Overnight **23 Nov**; walkable to the riverside, stilted houses, old-town lanes and night views; convenient for exploring again on the morning of 24 Nov before departure |
 | Chongqing (重庆) | **Jiefangbei (解放碑) / Yuzhong Peninsula (渝中半岛)** | Central downtown; walking distance to Hongya Cave, Chaotianmen, Shibati; good metro access to Ciqikou, Guanyinqiao, and to Jiangbei Airport |
 
 ## Ticket Booking Summary — Where to Book
