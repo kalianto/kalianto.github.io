@@ -58,11 +58,12 @@
 | Fenghuang (凤凰古城) → Chongqing (重庆) | Bus/train | — | 12306/Trip.com — confirm exact routing closer to travel date |
 | Chongqing (重庆) | Chongqing ↔ Wulong (武隆) high-speed rail | — | 12306 or Trip.com |
 | Chongqing (重庆) | Wulong Three Natural Bridges (天生三桥) | **Budget ~¥95*** | Official “武隆喀斯特旅游景区” channel / Trip.com/Klook |
+| Chongqing (重庆) | Chongqing Zoo (重庆动物园) | **¥25** | On-site / official channels; no advance booking normally needed |
 
 
 *Free/no-booking spots (Chengdu's Tianfu Sq/People's Park/Chunxi Rd/Kuanzhai Alley/Jinli St/SKP, Xi'An's Muslim Quarter/Datang Everbright City, Fenghuang Ancient Town, and Chongqing's Hongya Cave/Jiefangbei/Chaotianmen/Shibati/Liziba/Kuixinglou/Ciqikou/Guanyinqiao/Deyi World) aren't listed above — no pre-booking needed. Furong Town is ticketed.*
 
-**Estimated required attraction/scenic-transport budget for the itinerary:** **~¥1,574 per adult / ~¥3,148 for 2 travellers**. This excludes optional Wuhou Shrine, Bell/Drum Tower climbs, Da Ci'en Temple/pagoda climb, optional insurance/exit carts, intercity rail/air tickets, and normal public transport. The total uses the provisional November budgets shown for Dujiangyan and Wulong and should be refreshed when those date-specific tickets open.
+**Estimated required attraction/scenic-transport budget for the itinerary:** **~¥1,599 per adult / ~¥3,198 for 2 travellers**. This excludes optional Wuhou Shrine, Bell/Drum Tower climbs, Da Ci'en Temple/pagoda climb, optional insurance/exit carts, intercity rail/air tickets, and normal public transport. The total uses the provisional November budgets shown for Dujiangyan and Wulong and should be refreshed when those date-specific tickets open.
 
 ---
 
@@ -331,7 +332,8 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **Hongya Cave / Ciqikou / Jiefangbei / Chaotianmen / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
 | **Wulong Three Natural Bridges (武隆天生三桥)** | **Budget ¥95/person*** | Low-season scenic-area package/transfer used for the standard visitor route | Pre-book once 25 Nov inventory opens; optional exit cart is extra |
 | Optional exit sightseeing cart at Wulong | **¥15** | Short ride from scenic exit instead of walking | Optional |
-| **Planned required subtotal** | **~¥95/person*** | Wulong only | **~¥190 for 2 travellers** |
+| **Chongqing Zoo (重庆动物园)** | **¥25** | Morning visit on 27 Nov; panda houses + nearby highlights | January–November peak-season adult price; ticket sales from 08:00, animal viewing from 08:30 |
+| **Planned required subtotal** | **~¥120/person*** | Wulong ¥95 + Chongqing Zoo ¥25 | **~¥240 for 2 travellers** |
 
 *Wulong price note: the **2026 Wulong government directory lists the Nov–Feb base admission at ¥40**, while the scenic operator's published low-season package shows **¥55 admission + ¥40 eco-bus = ¥95**. Because those current official sources conflict, the itinerary budgets **¥95/person** until the exact 25 Nov product opens for sale; use the booking-page total shown then.*
 
@@ -362,14 +364,18 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | 19:00–21:00 | **Deyi World (得意世界) (Cyberpunk)** — neon walkways, night photography | Metro/bus (~20–30 min from Guanyinqiao); free public area |
 | ~21:30 | Return to hotel | Metro |
 
-### Day 3 — 27 Nov: Relaxed morning + Departure
+### Day 3 — 27 Nov: Chongqing Zoo + Departure
 | Time | Activity | Transport / Notes |
 |---|---|---|
-| Morning | Relaxed morning — rest, optional revisit/shopping, check out | No rush |
-| 13:00–13:30 | Transfer to Chongqing Jiangbei Int'l Airport (重庆江北国际机场) | Metro/bus (~30–40 min) |
-| 13:30–17:00 | Check-in, security buffer | ~2 hr buffer for departure |
+| 07:15–07:45 | Breakfast, check out, leave luggage at hotel | Keep luggage at hotel reception for collection after the zoo |
+| ~07:45–08:30 | Hotel → **Chongqing Zoo (重庆动物园)** | Assuming Jiefangbei-area hotel: walk/metro to **Line 2**, ride to **Zoo Station (动物园站)**; no Didi needed |
+| 08:30–11:00 | **Chongqing Zoo (重庆动物园)** — go to the giant panda area first, then nearby highlights | **¥25/adult in November**; animal viewing starts from ~08:30. Keep this to a focused 2–2.5 hr visit rather than covering the full zoo |
+| 11:00–11:45 | Zoo → hotel | Line 2 back toward Jiefangbei area; collect luggage |
+| 11:45–12:15 | Quick lunch / final preparation | Stay close to hotel so departure is not delayed |
+| **12:15–12:30** | Leave hotel for Chongqing Jiangbei Int'l Airport (重庆江北国际机场) | Public transport; allow extra time for transfer/walking with luggage. Exact route should be updated once the Chongqing hotel address is confirmed |
+| ~13:30–14:00 | Arrive airport, check in and clear security | Leaves roughly 3 hrs before the 17:00 flight |
 | 17:00 | Flight departs | — |
 
-**Ticket notes for Chongqing:** Wulong Three Natural Bridges entrance + HSR — pre-book in advance. Hongya Cave, Jiefangbei, Chaotianmen Square, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao, Deyi World are all free/no booking needed.
+**Ticket notes for Chongqing:** Wulong Three Natural Bridges entrance + HSR — pre-book in advance. **Chongqing Zoo is ¥25/adult in November** and normally does not require advance booking. Hongya Cave, Jiefangbei, Chaotianmen Square, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao, and Deyi World are all free/no booking needed.
 
 ---
