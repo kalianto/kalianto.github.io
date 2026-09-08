@@ -3,15 +3,14 @@
 **Arrival:** 13 Nov, 12:00 PM — Chengdu Shuangliu Int'l Airport (成都双流国际机场)
 **Departure:** 27 Nov, 5:00 PM — Chongqing Jiangbei Int'l Airport (重庆江北国际机场)
 
-**Route:** Chengdu (成都) → Jiuzhaigou (九寨沟) → Xi'An (西安) (transit via Chengdu) → Zhangjiajie (张家界) → Fenghuang Ancient Town (凤凰古城) → Chongqing (重庆)
+**Route:** Chengdu (成都) → Jiuzhaigou (九寨沟) → Xi'An (西安) (transit via Chengdu) → Zhangjiajie (张家界) **[base for Furong Town + Fenghuang day trips]** → Chongqing (重庆)
 
 | City | Dates |
 |---|---|
 | [Chengdu (成都)](#chengdu) | 13 – 15 Nov |
 | [Jiuzhaigou (九寨沟)](#jiuzhaigou) | 15 – 17 Nov |
 | [Xi'An (西安)](#xian) | 17 – 19 Nov |
-| [Zhangjiajie (张家界)](#zhangjiajie) | 19 – 23 Nov |
-| [Fenghuang Ancient Town (凤凰古城)](#fenghuang) | 23 – 24 Nov |
+| [Zhangjiajie (张家界)](#zhangjiajie) | 19 – 24 Nov *(Furong + Fenghuang day trips)* |
 | [Chongqing (重庆)](#chongqing) | 24 – 27 Nov |
 
 **General rules applied:** scenery-focused, no bars/nightclubs/shows, minimize transit time between spots, prefer bus > metro/subway > train, avoid Didi/taxis, include beautiful night-view spots, flag any tickets needing pre-booking.
@@ -23,8 +22,7 @@
 | Chengdu (成都) | **Chunxi Road (春熙路) / Tianfu Square (天府广场)** | Central, metro hub; walkable to People's Park & Chunxi Rd; short metro to Kuanzhai Alley, Jinli St, Chengdu East Station |
 | Jiuzhaigou (九寨沟) | **Jiuzhaigou valley town (Zangzu/Tibetan town)**, near the park entrance | Shortest access for the required early-morning park entry |
 | Xi'An (西安) | **Inside the City Wall (西安城墙), near Bell Tower (钟楼)** | Walking distance to Muslim Quarter & Bell/Drum Tower; easy metro/bus to Terracotta Army and City Wall access points |
-| Zhangjiajie (张家界) | **Zhangjiajie city center** (near Tianmen Mountain (天门山) cable car base / bus station) | Convenient for Tianmen Mountain directly; reasonable bus access to Wulingyuan (武陵源), Grand Canyon, and the West Railway Station |
-| Fenghuang Ancient Town (凤凰古城) | **Inside or immediately beside the Ancient Town, near the Tuo River (沱江) / Rainbow Bridge (虹桥)** | Overnight **23 Nov**; walkable to the riverside, stilted houses, old-town lanes and night views; convenient for exploring again on the morning of 24 Nov before departure |
+| Zhangjiajie (张家界) | **Zhangjiajie city center** (near Tianmen Mountain (天门山) cable car base / bus station) | **Stay all 5 nights, 19–24 Nov.** Convenient for Tianmen Mountain and for repeated access to **Zhangjiajie West Railway Station (张家界西站)** for the Furong Town and Fenghuang Ancient Town day trips, then the direct train to Chongqing |
 | Chongqing (重庆) | **Jiefangbei (解放碑) / Yuzhong Peninsula (渝中半岛)** | Central downtown; walking distance to Hongya Cave, Chaotianmen, Shibati; good metro access to Ciqikou, Guanyinqiao, and to Jiangbei Airport |
 
 ## Ticket Booking Summary — Where to Book
@@ -51,11 +49,11 @@
 | Xi'An (西安) → Zhangjiajie (张家界) | Flight | — | Trip.com/Ctrip or airline's official app |
 | Zhangjiajie (张家界) | Forest Park + planned Bailong Elevator + Tianzi cableway | **¥377** (¥240 + ¥65 + ¥72) | Official scenic-area channel or Trip.com/Klook |
 | Zhangjiajie (张家界) | Tianmen Mountain (天门山) A/B/C package | **¥288** (+¥5 glass skywalk) | Official/authorized booking channel or Trip.com/Klook |
-| Zhangjiajie (张家界) | Grand Canyon + Glass Bridge (大峡谷玻璃桥), B route | **¥219** | Official scenic-area channel or Trip.com/Klook |
 | Zhangjiajie (张家界) | 72 Strange Buildings (七十二奇楼) night ticket | **¥88** | Trip.com/Klook or on-site |
 | Zhangjiajie / Xiangxi | Furong Town (芙蓉镇) | **¥108** | Official/authorized platform or Trip.com/Klook |
-| Zhangjiajie (张家界) → Jishou (吉首) | High-speed rail | — | 12306 or Trip.com |
-| Fenghuang (凤凰古城) → Chongqing (重庆) | Bus/train | — | 12306/Trip.com — confirm exact routing closer to travel date |
+| Zhangjiajie West (张家界西) ↔ Furongzhen (芙蓉镇) | High-speed rail day trip | — | 12306 or Trip.com; current direct trains take about **23–24 min each way** |
+| Zhangjiajie West (张家界西) ↔ Fenghuang Gucheng (凤凰古城) | High-speed rail day trip | — | 12306 or Trip.com; current direct trains take about **51–60 min each way** |
+| Zhangjiajie West (张家界西) → Chongqing (重庆) | High-speed rail | — | 12306 or Trip.com; many current direct departures, fastest around **2 hrs** |
 | Chongqing (重庆) | Chongqing ↔ Wulong (武隆) high-speed rail | — | 12306 or Trip.com |
 | Chongqing (重庆) | Wulong Three Natural Bridges (天生三桥) | **Budget ~¥95*** | Official “武隆喀斯特旅游景区” channel / Trip.com/Klook |
 | Chongqing (重庆) | Chongqing Zoo (重庆动物园) | **¥25** | On-site / official channels; no advance booking normally needed |
@@ -63,7 +61,7 @@
 
 *Free/no-booking spots (Chengdu's Tianfu Sq/People's Park/Chunxi Rd/Kuanzhai Alley/Jinli St/SKP, Xi'An's Muslim Quarter/Datang Everbright City, Fenghuang Ancient Town, and Chongqing's Hongya Cave/Jiefangbei/Chaotianmen/Shibati/Liziba/Kuixinglou/Ciqikou/Guanyinqiao/Deyi World) aren't listed above — no pre-booking needed. Furong Town is ticketed.*
 
-**Estimated required attraction/scenic-transport budget for the itinerary:** **~¥1,599 per adult / ~¥3,198 for 2 travellers**. This excludes optional Wuhou Shrine, Bell/Drum Tower climbs, Da Ci'en Temple/pagoda climb, optional insurance/exit carts, intercity rail/air tickets, and normal public transport. The total uses the provisional November budgets shown for Dujiangyan and Wulong and should be refreshed when those date-specific tickets open.
+**Estimated required attraction/scenic-transport budget for the itinerary:** **~¥1,380 per adult / ~¥2,760 for 2 travellers**. This excludes optional Wuhou Shrine, Bell/Drum Tower climbs, Da Ci'en Temple/pagoda climb, optional insurance/exit carts, intercity rail/air tickets, and normal public transport. The total uses the provisional November budgets shown for Dujiangyan and Wulong and should be refreshed when those date-specific tickets open.
 
 ---
 
@@ -240,12 +238,11 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 ---
 
 <a id="zhangjiajie"></a>
-## Zhangjiajie 张家界 (19 – 23 Nov)
+## Zhangjiajie 张家界 (19 – 24 Nov)
 
-*(19 Nov evening arrival already covered at the end of the Xi'An section — check-in, dinner, rest)*
+*(19 Nov evening arrival already covered at the end of the Xi'An section — check in and keep the **same Zhangjiajie hotel for all 5 nights, 19–24 Nov**. Furong Town and Fenghuang Ancient Town are now separate high-speed-rail day trips; no overnight stay in Fenghuang.)*
 
-
-### Entrance tickets — Zhangjiajie (adult full price, Nov 2026)
+### Entrance tickets — Zhangjiajie + Xiangxi day trips (adult full price, Nov 2026)
 | Place / required scenic transport | Adult fee | What it covers | Booking note |
 |---|---:|---|---|
 | **Zhangjiajie National Forest Park / Wulingyuan core (张家界国家森林公园 / 武陵源核心景区)** | **¥240** | 2026 practical **scenic-area + eco-bus** ticket used for this route | Pre-book, real-name; park ticket is multi-day valid, but this itinerary uses it on 20 Nov |
@@ -254,76 +251,82 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **Tianmen Mountain (天门山) A/B/C package** | **¥288** | Current standard adult package including the core mountain entry + specified cableway/transport for the selected route | **Timed entry; pre-book** |
 | **Tianmen Mountain glass skywalk service/shoe cover** | **¥5** | Glass-walkway service fee | Pay on site if using the glass skywalk |
 | **72 Strange Buildings (七十二奇楼) night ticket** | **¥88** | Night entry from 16:30 | Pre-book recommended |
-| **Zhangjiajie Grand Canyon + Glass Bridge (张家界大峡谷玻璃桥), B route** | **¥219** | Glass Bridge + full canyon route + core included services | **Timed entry; pre-book** |
-| **Furong Town (芙蓉镇)** | **¥108** | Scenic-town admission | Ticketed — not free; ticket often includes scheduled performances, which you can ignore/skip |
-| **Planned required subtotal** | **¥1,085/person** | Forest Park ¥240 + Bailong ¥65 + Tianzi cable ¥72 + Tianmen ¥288 + glass skywalk ¥5 + 72Q ¥88 + Grand Canyon B ¥219 + Furong ¥108 | **¥2,170 for 2 travellers** |
+| **Furong Town (芙蓉镇)** | **¥108** | Scenic-town admission | Ticketed; scheduled performances may be included but can be ignored/skipped |
+| **Fenghuang Ancient Town (凤凰古城)** | **Free** | Streets, Tuo River waterfront, Rainbow Bridge exterior/public old-town areas | Optional museums, boat rides and individual attractions cost extra |
+| **Planned required subtotal** | **¥866/person** | Forest Park ¥240 + Bailong ¥65 + Tianzi cable ¥72 + Tianmen ¥288 + glass skywalk ¥5 + 72Q ¥88 + Furong ¥108 | **¥1,732 for 2 travellers**; intercity/day-trip rail fares excluded |
 
-**Important correction:** Bailong Elevator and Tianzi Mountain Cableway are **not included** in the Forest Park admission/eco-bus ticket; they are separate scenic-transport tickets.
+**Important route change (8 Sep 2026):** **Grand Canyon + Glass Bridge has been removed from the core plan.** This creates enough time for **Furong Town and Fenghuang Ancient Town as two separate day trips** while keeping one Zhangjiajie hotel and avoiding the awkward Fenghuang → Chongqing connection. If you later decide the Glass Bridge is a must-do, it can be restored only by combining another day or dropping one of the two Xiangxi town day trips.
 
 ### Day 1 — 20 Nov: Forest Park — Yuanjiajie + Tianzi Mountain + Golden Whip Stream
 | Time | Activity | Transport / Notes |
 |---|---|---|
 | 07:30–08:15 | To Wulingyuan (武陵源) entrance | Public bus from Zhangjiajie city (~40 min) |
-| 08:30–12:00 | **Bailong Elevator (百龙天梯)** up to **Yuanjiajie (袁家界)** — Avatar Hallelujah Mountain (哈利路亚山), First Bridge Under Heaven (天下第一桥) | **Bailong Elevator is ¥65 one-way and is separate from the park pass.** The practical 2026 Forest Park scenic-area + eco-bus ticket is **¥240/adult**; pre-book online (real-name). |
+| 08:30–12:00 | **Bailong Elevator (百龙天梯)** up to **Yuanjiajie (袁家界)** — Avatar Hallelujah Mountain (哈利路亚山), First Bridge Under Heaven (天下第一桥) | **Bailong Elevator is ¥65 one-way and separate from the park pass.** Forest Park scenic-area + eco-bus ticket **¥240/adult**; pre-book online (real-name) |
 | 12:00–13:00 | Lunch inside park | — |
-| 13:00–16:00 | **Tianzi Mountain (天子山)** — cable car up, viewing platforms (Imperial Brush Peaks 御笔峰, West Sea 西海) | Internal eco-bus + **Tianzi Mountain Cableway ¥72 one-way**; cableway is separate from the park pass; no Didi needed |
-| 16:00–17:30 | **Golden Whip Stream (金鞭溪)** — flat, scenic valley walk along the stream on the way out | Gentle walking trail, minimal transit; combined single-day route |
-| 17:30–18:15 | Return to hotel | Public bus |
+| 13:00–16:00 | **Tianzi Mountain (天子山)** — viewing platforms (Imperial Brush Peaks 御笔峰, West Sea 西海) | Internal eco-bus + **Tianzi Mountain Cableway ¥72 one-way**; separate from park pass |
+| 16:00–17:30 | **Golden Whip Stream (金鞭溪)** — flat scenic valley walk on the way out | Gentle walking trail; keep this flexible if daylight/weather is poor |
+| 17:30–18:15 | Return to Zhangjiajie hotel | Public bus |
 
 ### Day 2 — 21 Nov: Tianmen Mountain + 72 Strange Buildings (night)
 | Time | Activity | Transport / Notes |
 |---|---|---|
-| 08:00–08:30 | To Tianmen Mountain (天门山) cable car base station (in Zhangjiajie city) | Walk/short bus |
-| 08:30–10:00 | World's longest cable car ride up | **A/B/C adult package currently ¥288; timed-entry ticket — must be pre-booked online** |
+| 08:00–08:30 | Hotel → Tianmen Mountain (天门山) cable-car base | Walk/short public bus from Zhangjiajie city-center hotel |
+| 08:30–10:00 | Long cable-car ride up | **A/B/C adult package currently ¥288; timed-entry ticket — pre-book online** |
 | 10:00–14:00 | Glass skywalk, Tianmen Cave (天门洞), 99-Bend Heaven-Linking Avenue (通天大道) viewpoint | **Glass skywalk service/shoe-cover fee ¥5** if used |
-| 14:00–15:30 | Descend (cable car or shuttle bus down the 99 bends) | Included in ticket |
-| 15:30–16:30 | Return to hotel, freshen up | Walk/short bus |
-| 17:00–17:20 | To **72 Strange Buildings (72奇楼)** | Public bus No.7/16/17 (~15–20 min from city center) |
-| 17:20–21:30 | **72 Strange Buildings (72奇楼)** — world's tallest stilted building (Guinness record), lit up at night with themed light shows | Night ticket **¥88** (16:30–22:00) — **recommend pre-booking online**; free performances run after 18:00, optional to skip per your no-shows preference, the lit-up building itself is the highlight |
+| 14:00–15:30 | Descend | Cable car / scenic transport according to booked route |
+| 15:30–16:30 | Return to hotel, rest/freshen up | Walk/short bus |
+| 17:00–17:20 | To **72 Strange Buildings (七十二奇楼)** | Public bus; exact hotel route to be filled once hotel address is supplied |
+| 17:20–21:30 | **72 Strange Buildings** — illuminated stilted complex/night photography | Night ticket **¥88**; performances are optional and can be skipped |
 | ~22:00 | Return to hotel | Public bus |
 
-### Day 3 — 22 Nov: Grand Canyon + Glass Bridge (AM) → Furong Town (PM/evening)
+### Day 3 — 22 Nov: Fenghuang Ancient Town day trip — return to Zhangjiajie
 | Time | Activity | Transport / Notes |
 |---|---|---|
-| 07:30–09:00 | Bus to Zhangjiajie Grand Canyon (张家界大峡谷) | ~1–1.5 hrs |
-| 09:00–12:30 | **Grand Canyon + Glass Bridge (玻璃桥)** walk | Use the **B-route ticket ¥219/adult** (Glass Bridge + full Grand Canyon route); timed entry must be pre-booked online (real-name). |
-| 12:30–14:00 | Bus to **Furong Town (芙蓉镇)** | ~1.5–2 hrs |
-| 14:00–19:00 | Furong Town — stilted houses, waterfall through town, evening lights | **Adult ticket ¥108**; stay till dusk — waterfall + old town beautifully lit at night |
-| 19:00–20:30 | Return to Zhangjiajie city | Bus |
+| ~06:15–06:40 | Hotel → **Zhangjiajie West Railway Station (张家界西站)** | Public bus / hotel-area transit; exact route to be added when Zhangjiajie hotel address is known. Aim to be at the station ~30 min before departure |
+| **~07:00–08:10** | **Zhangjiajie West → Fenghuang Gucheng (凤凰古城站)** | Book a direct early HSR. Current timetable patterns show several morning options from about **07:05**, with the ride roughly **51–60 min**. **Use these times as planning placeholders until 22 Nov tickets open on 12306.** |
+| ~08:10–08:45 | Fenghuang Gucheng Station → Ancient Town | Use the official/public scenic shuttle or maglev/local public transport into the old-town area; no Didi required |
+| 09:00–12:30 | **Fenghuang Ancient Town (凤凰古城)** — old lanes, gates, Tuo River (沱江), stilted houses | Ancient-town public streets are free; optional museums/boat rides extra |
+| 12:30–13:30 | Lunch | Stay within the old-town core |
+| 13:30–17:30 | Continue exploring — Rainbow Bridge (虹桥), riverside walks, viewpoints | Slow sightseeing; no need to carry overnight luggage |
+| **17:30–19:30** | Dinner + **Fenghuang night lights** | This is the reason to stay into the evening: riverside buildings and bridges are best after dark |
+| ~19:30–20:15 | Ancient Town → Fenghuang Gucheng Station | Leave enough buffer for shuttle/public transport and station security |
+| **~20:00–22:30 window** | **Fenghuang Gucheng → Zhangjiajie West** | Current patterns have several direct evening returns around **19:53, 19:59, 20:56, 21:04 and 21:23**, taking about **52–63 min**. Pick the best actual 22 Nov service once 12306 opens |
+| Evening | Zhangjiajie West → same hotel | Public bus / hotel-area transit; no hotel change |
 
-<a id="fenghuang"></a>
-## Fenghuang Ancient Town 凤凰古城 (23 – 24 Nov)
-
-### Entrance tickets — Fenghuang (adult full price, Nov 2026)
-| Place | Adult fee | What it covers | Booking note |
-|---|---:|---|---|
-| **Fenghuang Ancient Town (凤凰古城)** | **Free** | Streets, riverside, Rainbow Bridge exterior/public old-town areas | Individual museums/boat rides are optional paid extras |
-
-### Day 4 — 23 Nov: Travel to Fenghuang Ancient Town
+### Day 4 — 23 Nov: Furong Town day trip — waterfall + night illumination, return to Zhangjiajie
 | Time | Activity | Transport / Notes |
 |---|---|---|
-| Morning | Check out, transfer to Zhangjiajie Railway Station | Bus/metro (~20–30 min) |
-| ~09:00–11:00 | High-speed rail: Zhangjiajie → Jishou (吉首) | ~1.5–2 hrs; **book in advance** |
-| 11:00–12:00 | Bus/shuttle: Jishou → Fenghuang Ancient Town | ~40 min–1 hr |
-| Afternoon | Check in, rest, explore lanes by daylight | — |
-| Evening | **Fenghuang Ancient Town (凤凰古城)** — riverside lantern-lit old town, stilted houses along the Tuo River (沱江), Rainbow Bridge (虹桥); dinner by the river | Free to walk the town; best scenery is after dark |
+| Morning | Relaxed breakfast; hotel → **Zhangjiajie West Railway Station** | No need for a dawn start because the rail journey is very short and Furong is especially attractive at dusk/night |
+| **~09:30–10:30** | **Zhangjiajie West → Furongzhen (芙蓉镇站)** | Direct HSR is currently about **23–24 min**; current patterns include departures around 09:42/10:02. Book the actual 23 Nov train when 12306 opens |
+| ~10:30–11:00 | Furongzhen Station → Furong Town scenic area | Scenic shuttle/public local transport; no Didi required |
+| 11:00–13:00 | **Furong Town (芙蓉镇)** — old streets + waterfall viewpoints | Adult ticket **¥108** |
+| 13:00–14:00 | Lunch | Scenic-area/town restaurants |
+| 14:00–17:30 | Explore Tujia-style streets, cliffside buildings and waterfall paths | Keep the afternoon unhurried |
+| **17:30–20:30** | Dinner + **Furong Town after dark** | Stay for the illuminated waterfall and cliffside buildings — one of the main reasons for making this a dedicated day trip |
+| ~20:30–21:15 | Scenic area → Furongzhen Station | Allow buffer for local transfer and station security |
+| **~21:30–22:30** | **Furongzhen → Zhangjiajie West** | Current timetable patterns include late direct trains around **21:32, 21:42, 21:53 and 22:01**, taking about **23–25 min**. Confirm/book the actual 23 Nov service on 12306 |
+| Late evening | Zhangjiajie West → same hotel | Public bus / hotel-area transit; pack for Chongqing departure next morning |
 
-### Day 5 — 24 Nov: Fenghuang morning → Transfer to Chongqing
+### Day 5 — 24 Nov: Zhangjiajie → Chongqing
 | Time | Activity | Transport / Notes |
 |---|---|---|
-| Morning | Explore Fenghuang by daylight (Rainbow Bridge, riverside houses, old town gates) | Free walking, no booking needed |
-| Midday | Check out, bus/shuttle to Jishou or Tongren | ~40 min–1.5 hrs depending on connection used |
-| Afternoon | Train/bus to Chongqing | ~4–5 hrs total; **confirm exact routing and book closer to travel date** — this region's rail links are still expanding |
-| Evening | Arrive Chongqing, check in | Continues into the Chongqing section below |
+| ~07:30 | Breakfast, check out | Same Zhangjiajie hotel used for the full stay; no Fenghuang checkout/transfer needed |
+| ~08:00–08:30 | Hotel → **Zhangjiajie West Railway Station (张家界西站)** | Public bus / hotel-area transit; exact route to be added after hotel address is supplied |
+| **Morning / exact train TBD** | **Direct HSR: Zhangjiajie West → Chongqing** | This is the main benefit of the replan. Current schedules show **many direct trains throughout the day**, with the fastest to Chongqing East around **2 hr 02 min**. Prefer a **morning train around 08:30–10:00** so you reach Chongqing around late morning/noon. Book the actual 24 Nov train when the 12306 booking window opens |
+| Late morning / early afternoon | Arrive Chongqing, transfer to hotel, check in / leave luggage | Exact station → hotel route to be added once the Chongqing hotel address is supplied |
+| Afternoon | Rest / easy downtown walk if desired | You now gain several extra hours in Chongqing compared with travelling from Fenghuang |
+| Evening | **Hongya Cave (洪崖洞)** — iconic illuminated riverside complex + dinner nearby | Free; continues into the Chongqing section below |
 
-**Ticket notes for Zhangjiajie/Fenghuang:** Forest Park entrance (covers Yuanjiajie/Tianzi Mtn) and Bailong Elevator/cable cars — pre-book online. Tianmen Mountain cable car is timed-entry — must pre-book. Grand Canyon Glass Bridge — timed-entry, must pre-book. 72 Strange Buildings night ticket — recommend pre-booking, covers the light show. Furong Town — **¥108/adult**, ticketed; advance booking is optional in low season. Zhangjiajie–Jishou HSR — book in advance. Fenghuang Ancient Town itself is free to walk; some individual attractions inside (e.g. specific former residences) may need a small combo ticket, buy on-site.
+**Rail-planning note (checked 8 Sep 2026):** current timetable patterns show roughly **17–19 direct trains/day Zhangjiajie West → Fenghuang Gucheng (fastest ~51 min)**, **about 8–11 direct trains/day each way between Zhangjiajie West and Furongzhen (fastest ~23 min)**, and **roughly 26 direct Zhangjiajie West → Chongqing options with fastest journeys around 2 hr**. November 2026 train numbers/times are **not final until the 12306 booking window opens**, so the times above are planning targets rather than bookings.
+
+**Ticket notes for Zhangjiajie/Xiangxi:** Forest Park, Bailong Elevator/Tianzi cableway, Tianmen Mountain and 72 Strange Buildings remain as before. **Grand Canyon/Glass Bridge is no longer part of the core itinerary.** Furong Town is **¥108/adult**. Fenghuang Ancient Town itself is free to walk. Book all four day-trip rail legs (**Zhangjiajie West ↔ Fenghuang Gucheng; Zhangjiajie West ↔ Furongzhen**) and the **24 Nov Zhangjiajie West → Chongqing** train through 12306/Trip.com when sales open.
 
 ---
 
 <a id="chongqing"></a>
 ## Chongqing 重庆 (24 – 27 Nov)
 
-*(24 Nov evening: arrival from Fenghuang Ancient Town, check-in)*
+*(24 Nov: arrive directly from Zhangjiajie West by high-speed rail; hotel check-in followed by an easier afternoon/evening in Chongqing.)*
 
 
 ### Entrance tickets — Chongqing (adult full price, Nov 2026)
