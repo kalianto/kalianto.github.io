@@ -5,13 +5,13 @@
 
 **Route:** Chengdu (成都) → Jiuzhaigou (九寨沟) → Xi'An (西安) (transit via Chengdu) → Zhangjiajie (张家界) **[base for Furong Town + Fenghuang day trips]** → Chongqing (重庆)
 
-| City | Dates |
-|---|---|
-| [Chengdu (成都)](#chengdu) | 13 – 15 Nov |
-| [Jiuzhaigou (九寨沟)](#jiuzhaigou) | 15 – 17 Nov |
-| [Xi'An (西安)](#xian) | 17 – 19 Nov |
-| [Zhangjiajie (张家界)](#zhangjiajie) | 19 – 24 Nov *(Furong + Fenghuang day trips)* |
-| [Chongqing (重庆)](#chongqing) | 24 – 27 Nov |
+| City | Dates | Temperature |
+|---|---|---|
+| [Chengdu (成都)](#chengdu) | 13 – 15 Nov | **Low**: 7° **High**: 15° |
+| [Jiuzhaigou (九寨沟)](#jiuzhaigou) | 15 – 17 Nov | **Low**: 1° **High**: 9° |
+| [Xi'An (西安)](#xian) | 17 – 19 Nov | **Low**: 3-5° **High**: 15° |
+| [Zhangjiajie (张家界)](#zhangjiajie) | 19 – 24 Nov *(Furong + Fenghuang day trips)* | **Low**: 7° **High**: 19° |
+| [Chongqing (重庆)](#chongqing) | 24 – 27 Nov | **Low**: 10° **High**: 17° |
 
 **General rules applied:** scenery-focused, no bars/nightclubs/shows, minimize transit time between spots, prefer bus > metro/subway > train, avoid Didi/taxis, include beautiful night-view spots, flag any tickets needing pre-booking.
 
