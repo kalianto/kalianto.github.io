@@ -283,7 +283,22 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **By ~17:15–17:45** | **Wulingyuan → Zhangjiajie West** | From **标志门 / 武陵源** take the official **城景巴士 back to 张家界西站**. Current published patterns run into early evening, but **confirm the exact 20 Nov last departure at the West-station coach counter in the morning**. |
 | ~18:00–18:30 | **Zhangjiajie West → hotel** | Walk **~740 m / ~11 min** back to Building 21. Dinner around Ningbang Plaza. |
 
-### Day 2 — 21 Nov: Hotel → Tianmen Mountain → hotel → 72 Strange Buildings → hotel
+### Day 2 — 21 Nov: Hotel → Furong Town day trip → hotel
+| Time | Activity | Route from/to hotel + Transport / Notes |
+|---|---|---|
+| Morning | Relaxed breakfast; **hotel → Zhangjiajie West Railway Station** | Walk **~740 m / ~11 min**. No city bus needed. |
+| **~09:30–10:30** | **Zhangjiajie West → Furongzhen (芙蓉镇站)** | Direct HSR is currently about **23–24 min**; current patterns include departures around 09:42/10:02. Book the actual 21 Nov train when 12306 opens. |
+| ~10:30–11:00 | Furongzhen Station → Furong Town scenic area | Scenic shuttle/public local transport; no Didi required. |
+| 11:00–13:00 | **Furong Town (芙蓉镇)** — old streets + waterfall viewpoints | Adult ticket **¥108**. |
+| 13:00–14:00 | Lunch | Scenic-area/town restaurants. |
+| 14:00–17:30 | Explore Tujia-style streets, cliffside buildings and waterfall paths | Keep the afternoon unhurried. |
+| **17:30–20:30** | Dinner + **Furong Town after dark** | Stay for the illuminated waterfall and cliffside buildings. |
+| ~20:30–21:15 | Scenic area → Furongzhen Station | Allow buffer for local transfer and station security. |
+| **~21:30–22:30** | **Furongzhen → Zhangjiajie West** | Current timetable patterns include late direct trains around **21:32, 21:42, 21:53 and 22:01**, taking about **23–25 min**. Confirm/book the actual 21 Nov service on 12306. |
+| Late evening | **Zhangjiajie West → hotel** | Walk **~740 m / ~11 min** to Building 21. Return to the same hotel and rest. |
+
+
+### Day 3 — 22 Nov: Hotel → Tianmen Mountain → hotel → 72 Strange Buildings → hotel
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | ~07:35–08:20 | **Hotel → Tianmen Mountain lower cableway (天门山索道下站)** | Walk ~11 min to **张家界西站 / 高铁站** → take **Bus 17 (17路) toward 火车站** → get off at **武陵山珍馆站** → walk roughly **300 m** to the Tianmen Mountain cableway lower station. Allow **40–50 min door-to-cableway** including waiting. |
@@ -295,33 +310,21 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | 17:20–20:10 | **72 Strange Buildings** — illuminated stilted complex/night photography | Night ticket **¥88**. You still get the dusk-to-night lighting period; performances remain optional and can be skipped. |
 | **~20:10–20:40** | **72 Strange Buildings → hotel** | Walk back to **张家界航院站** and take **17路 toward 高铁站**. **Current 17路 published service ends around 20:40, so leave the attraction by ~20:10–20:15 and do not wait until 21:30 if you want a public-bus return.** Get off at **高铁站** → walk ~11 min to hotel. If you intentionally stay later, arrange a **hotel/host pickup in advance**. |
 
-### Day 3 — 22 Nov: Hotel → Fenghuang Ancient Town day trip → hotel
+
+### Day 4 — 23 Nov: Hotel → Fenghuang Ancient Town day trip → hotel
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | ~06:15–06:30 | **Hotel → Zhangjiajie West Railway Station (张家界西站)** | **Walk ~740 m / ~11 min** from Building 21. Because the station is so close, no city bus is needed. Aim to enter the station ~30 min before departure for security/passport checks. |
-| **~07:00–08:10** | **Zhangjiajie West → Fenghuang Gucheng (凤凰古城站)** | Book a direct early HSR. Current timetable patterns show several morning options from about **07:05**, with the ride roughly **51–60 min**. **Use these times as planning placeholders until 22 Nov tickets open on 12306.** |
+| **~07:00–08:10** | **Zhangjiajie West → Fenghuang Gucheng (凤凰古城站)** | Book a direct early HSR. Current timetable patterns show several morning options from about **07:05**, with the ride roughly **51–60 min**. **Use these times as planning placeholders until 23 Nov tickets open on 12306.** |
 | ~08:10–08:45 | Fenghuang Gucheng Station → Ancient Town | Use the official/public scenic shuttle or maglev/local public transport into the old-town area; no Didi required. |
 | 09:00–12:30 | **Fenghuang Ancient Town (凤凰古城)** — old lanes, gates, Tuo River (沱江), stilted houses | Ancient-town public streets are free; optional museums/boat rides extra. |
 | 12:30–13:30 | Lunch | Stay within the old-town core. |
 | 13:30–17:30 | Continue exploring — Rainbow Bridge (虹桥), riverside walks, viewpoints | Slow sightseeing; no need to carry overnight luggage. |
 | **17:30–19:30** | Dinner + **Fenghuang night lights** | Stay into the evening for the illuminated riverside buildings and bridges. |
 | ~19:30–20:15 | Ancient Town → Fenghuang Gucheng Station | Leave enough buffer for shuttle/public transport and station security. |
-| **~20:00–22:30 window** | **Fenghuang Gucheng → Zhangjiajie West** | Current patterns have several direct evening returns around **19:53, 19:59, 20:56, 21:04 and 21:23**, taking about **52–63 min**. Pick the best actual 22 Nov service once 12306 opens. |
-| Late evening | **Zhangjiajie West → hotel** | Exit the station and **walk ~740 m / ~11 min** back to Building 21. No bus or hotel change required. |
+| **~20:00–22:30 window** | **Fenghuang Gucheng → Zhangjiajie West** | Current patterns have several direct evening returns around **19:53, 19:59, 20:56, 21:04 and 21:23**, taking about **52–63 min**. Pick the best actual 23 Nov service once 12306 opens. |
+| Late evening | **Zhangjiajie West → hotel** | Exit the station and **walk ~740 m / ~11 min** back to Building 21. No bus or hotel change required; pack for the Chongqing departure next morning. |
 
-### Day 4 — 23 Nov: Hotel → Furong Town day trip → hotel
-| Time | Activity | Route from/to hotel + Transport / Notes |
-|---|---|---|
-| Morning | Relaxed breakfast; **hotel → Zhangjiajie West Railway Station** | Walk **~740 m / ~11 min**. No city bus needed. |
-| **~09:30–10:30** | **Zhangjiajie West → Furongzhen (芙蓉镇站)** | Direct HSR is currently about **23–24 min**; current patterns include departures around 09:42/10:02. Book the actual 23 Nov train when 12306 opens. |
-| ~10:30–11:00 | Furongzhen Station → Furong Town scenic area | Scenic shuttle/public local transport; no Didi required. |
-| 11:00–13:00 | **Furong Town (芙蓉镇)** — old streets + waterfall viewpoints | Adult ticket **¥108**. |
-| 13:00–14:00 | Lunch | Scenic-area/town restaurants. |
-| 14:00–17:30 | Explore Tujia-style streets, cliffside buildings and waterfall paths | Keep the afternoon unhurried. |
-| **17:30–20:30** | Dinner + **Furong Town after dark** | Stay for the illuminated waterfall and cliffside buildings. |
-| ~20:30–21:15 | Scenic area → Furongzhen Station | Allow buffer for local transfer and station security. |
-| **~21:30–22:30** | **Furongzhen → Zhangjiajie West** | Current timetable patterns include late direct trains around **21:32, 21:42, 21:53 and 22:01**, taking about **23–25 min**. Confirm/book the actual 23 Nov service on 12306. |
-| Late evening | **Zhangjiajie West → hotel** | Walk **~740 m / ~11 min** to Building 21. Pack for Chongqing departure next morning. |
 
 ### Day 5 — 24 Nov: Hotel → Zhangjiajie West → Chongqing
 | Time | Activity | Route from hotel + Transport / Notes |
@@ -333,7 +336,7 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | Afternoon | Rest / easy downtown walk if desired | You gain several extra hours in Chongqing compared with travelling from Fenghuang. |
 | Evening | **Hongya Cave (洪崖洞)** — iconic illuminated riverside complex + dinner nearby | Free; continues into the Chongqing section below. |
 
-**Zhangjiajie hotel-location note:** this hotel is **not in the Tianmen/downtown core**; it is a **Zhangjiajie West / Ningbang Plaza base**. That is a good match for this revised itinerary because **3 of the 5 Zhangjiajie mornings use Zhangjiajie West** (Fenghuang, Furong and Chongqing), while only Tianmen requires a city-bus commute and Wulingyuan has a direct scenic bus from the West-station area.
+**Zhangjiajie hotel-location note:** this hotel is **not in the Tianmen/downtown core**; it is a **Zhangjiajie West / Ningbang Plaza base**. That is a good match for this revised itinerary because **Furong, Fenghuang and Chongqing use Zhangjiajie West Railway Station directly**, the Forest Park day uses the **adjacent West-station coach terminal**, and only Tianmen requires a longer city-bus commute.
 
 **Route verification note (checked 10 Sep 2026):** the exact Building 21 / Room 1201 address is listed about **740 m / ~11 min from Zhangjiajie West**; properties in the same building show the **high-speed bus terminal ~600 m away** and the airport around **9.5–10 km away**. Current city-bus information shows **17路 roughly 05:40–20:40** and stops at **张家界航院** and **武陵山珍馆** before reaching the railway-station/Tianmen area. Current Wulingyuan guidance continues to operate a **direct city-scenic bus between Zhangjiajie West and Wulingyuan**, roughly **30–40 min**. Re-check November bus times in **Amap (高德地图) / Baidu Maps (百度地图)** and at the West-station coach counter after arrival, especially the **last Wulingyuan return** and the **airport 4路** late-evening service.
 
