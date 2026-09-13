@@ -125,7 +125,7 @@
 <a id="jiuzhaigou"></a>
 ## Jiuzhaigou 九寨沟 (15 – 17 Nov)
 
-**Hotel:** **Huodiba Bianbian Street (火地坝边边街)**, Jiuzhaigou, Sichuan 623402 / **四川省九寨沟县漳扎镇火地坝边边街**  
+**Hotel:** Jiuzhai Resort Hotel **九寨度假村(九寨沟风景区店)** **Huodiba Bianbian Street (火地坝边边街)**, Jiuzhaigou, Sichuan 623402 / **四川省九寨沟县漳扎镇火地坝边边街**  
 **Main transport anchors:** **Jiuzhaigou Scenic Area Visitor Center / entrance (九寨沟景区游客中心 / 沟口)** and the nearby **Jiutong Passenger Service Station / Goukou coach area (九通客运服务站 / 九寨沟沟口客运中心)**. Bianbian Street is in the Goukou tourist zone; properties in the Huodiba/Bianbian Street area are typically about **10–20 min on foot from the park check-in entrance**. Exact walking time depends on the hotel's building number, which was not provided.  
 **Route rule for Jiuzhaigou:** walking + official scenic/railway shuttle coaches + mandatory park eco-buses; no Didi/app ride-hailing. For luggage transfers, use the official coach stop nearest the hotel or a hotel-arranged pickup if offered.
 
