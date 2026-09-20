@@ -23,7 +23,7 @@
 | Jiuzhaigou (九寨沟) | **Jiuzhaigou valley town (Zangzu/Tibetan town)**, near the park entrance | Shortest access for the required early-morning park entry |
 | Xi'An (西安) | **Inside the City Wall (西安城墙), near Bell Tower (钟楼)** | Walking distance to Muslim Quarter & Bell/Drum Tower; easy metro/bus to Terracotta Army and City Wall access points |
 | Zhangjiajie (张家界) | **Zhangjiajie West Railway Station / Ningbang Plaza (张家界西站 / 宁邦广场)** | **Chosen hotel base for all 5 nights, 19–24 Nov:** 宁邦广场二期文化里21栋1201. About **740 m / ~11 min walk from Zhangjiajie West**, ideal for the Fenghuang/Furong HSR day trips and Chongqing departure; direct city-scenic bus connects the West-station area with Wulingyuan. Tianmen Mountain requires one city-bus ride. |
-| Chongqing (重庆) | **Jiefangbei (解放碑) / Yuzhong Peninsula (渝中半岛)** | Central downtown; walking distance to Hongya Cave, Chaotianmen, Shibati; good metro access to Ciqikou, Guanyinqiao, and to Jiangbei Airport |
+| Chongqing (重庆) | **Jiefangbei — Shidai Haoyuan / Chongqing Times Square (时代豪苑 / 重庆时代广场), No. 100 Zourong Road** | Exact hotel base in the Jiefangbei core; **Linjiangmen (临江门), Line 2 is about 110 m away**. Jiefangbei is essentially downstairs, Hongya Cave is about 570 m away, and Line 2 is convenient for Liziba and Chongqing Zoo. |
 
 ## Ticket Booking Summary — Where to Book
 
@@ -349,7 +349,11 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 <a id="chongqing"></a>
 ## Chongqing 重庆 (24 – 27 Nov)
 
-*(24 Nov: arrive directly from Zhangjiajie West by high-speed rail; hotel check-in followed by an easier afternoon/evening in Chongqing.)*
+**Hotel base:** No. 28-3, Building B, Shidai Haoyuan, No. 100 Zourong Road, Yuzhong District, Chongqing / **重庆市渝中区邹容路100号时代豪苑B栋28-3**  
+**Primary transport anchor:** **Linjiangmen (临江门), Line 2** — about **110 m / ~2–4 min walk** from Building B. The same address is the Chongqing Times Square / Jiefangbei complex; **Jiefangbei is <100–300 m away**, **Hongya Cave ~570 m**, and **Chaotianmen ~1.6 km**.  
+**Route rule for Chongqing:** walking + metro/monorail + public/scenic shuttle buses; avoid unnecessary returns to Jiefangbei during the sightseeing day. Because of Chongqing's steep terrain, follow the named metro exits in Amap/Baidu rather than judging routes only by straight-line distance.
+
+*(24 Nov: arrive directly from Zhangjiajie West by high-speed rail; exact Chongqing arrival station depends on the booked train. The itinerary below assumes a late-morning/early-afternoon arrival and uses the hotel as the base for all remaining Chongqing days.)*
 
 
 ### Entrance tickets — Chongqing (adult full price, Nov 2026)
@@ -358,50 +362,67 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **Hongya Cave / Ciqikou / Jiefangbei / Chaotianmen / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
 | **Wulong Three Natural Bridges (武隆天生三桥)** | **Budget ¥95/person*** | Low-season scenic-area package/transfer used for the standard visitor route | Pre-book once 25 Nov inventory opens; optional exit cart is extra |
 | Optional exit sightseeing cart at Wulong | **¥15** | Short ride from scenic exit instead of walking | Optional |
-| **Chongqing Zoo (重庆动物园)** | **¥25** | Morning visit on 27 Nov; panda houses + nearby highlights | January–November peak-season adult price; ticket sales from 08:00, animal viewing from 08:30 |
+| **Chongqing Zoo (重庆动物园)** | **¥25** | Morning visit on 27 Nov; panda houses + nearby highlights | January–November adult price; ticket sales from 08:00, animal viewing from 08:30 |
 | **Planned required subtotal** | **~¥120/person*** | Wulong ¥95 + Chongqing Zoo ¥25 | **~¥240 for 2 travellers** |
 
-*Wulong price note: the **2026 Wulong government directory lists the Nov–Feb base admission at ¥40**, while the scenic operator's published low-season package shows **¥55 admission + ¥40 eco-bus = ¥95**. Because those current official sources conflict, the itinerary budgets **¥95/person** until the exact 25 Nov product opens for sale; use the booking-page total shown then.*
+*Wulong price note: the itinerary keeps the existing provisional November budget until the exact 25 Nov ticket product opens. Check the official/authorized booking-page total before purchase because admission, scenic transfer and elevator components can be packaged differently.*
 
-### Day 0 — 24 Nov (Evening)
-| Time | Activity | Notes |
+### Day 0 — 24 Nov: Zhangjiajie → hotel → Jiefangbei / Kuixinglou / Chaotianmen → Hongya Cave at night
+| Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
-| Evening | **Hongya Cave (洪崖洞)** — iconic stilted building lit up over the river, dinner nearby | Free entry, no booking needed; best viewed after dark |
+| Late morning / early afternoon | **Arrive Chongqing → hotel** | **If your train arrives at Chongqing East (重庆东站):** take **Metro Line 6 toward the city → Xiaoshizi (小什字)**; follow the Line 6 through-service/same-line transfer signs at **Liujiaping (刘家坪)** if required, then walk roughly **10–15 min** from Xiaoshizi to **时代豪苑B栋 / 邹容路100号**. **If your train arrives at Chongqing North (重庆北站):** take **Line 10 → Zengjiayan (曾家岩)** → transfer to **Line 2 → Linjiangmen (临江门)** → walk ~110 m to the hotel. Use the route matching the actual 24 Nov ticket. |
+| After arrival | Check in / leave luggage, short rest | Hotel is directly in the **Jiefangbei core**, so the afternoon/evening loop requires very little transport. |
+| ~15:00–15:30 | **Hotel → Jiefangbei (解放碑)** | Walk **<5 min**. The monument/pedestrian core is essentially beside the hotel. |
+| ~15:30–16:15 | **Jiefangbei → Kuixinglou (魁星楼)** | Walk through the Jiefangbei/Datong Street area, roughly **10–15 min** depending on the chosen entrance. Use Amap/Baidu for the correct level/entrance because the viewpoint is vertically layered. |
+| ~16:15–17:15 | **Kuixinglou → Chaotianmen / Raffles City (朝天门 / 来福士)** | Walk east toward Chaotianmen, roughly **20–25 min / ~1.5 km** from the hotel zone. Enjoy the river-confluence/skyline area before dark. If the Zhangjiajie train arrives late, **skip Chaotianmen rather than rushing** and keep Jiefangbei + Hongya Cave. |
+| ~17:15–18:00 | **Chaotianmen → Hongya Cave (洪崖洞)** | Walk west along the Yuzhong riverside/road network toward Hongya Cave, or use **Line 1 Chaotianmen → Xiaoshizi (1 stop)** and walk the final section if tired. Aim to reach Hongya around dusk. |
+| ~18:00–20:30 | **Hongya Cave** + dinner nearby | Free public area; best after dark. Allow time to see the complex from both the upper-road level and the riverside/lower viewpoint. |
+| ~20:30 | **Hongya Cave → hotel** | Walk roughly **8–12 min** back to **时代豪苑B栋**. No metro is needed. |
 
-### Day 1 — 25 Nov: Wulong Karst Three Natural Bridges (full day trip)
-| Time | Activity | Transport / Notes |
+### Day 1 — 25 Nov: Wulong Three Natural Bridges — faster HSR route via Chongqing East
+| Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
-| 07:00–09:00 | High-speed rail: Chongqing → Wulong (武隆) | ~1.5–2 hrs; **book train tickets in advance** |
-| 09:00–09:30 | Shuttle bus to scenic area entrance | Usually included with ticket |
-| 09:30–15:00 | **Three Natural Bridges (天生三桥)** scenic loop (Tianlong 天龙桥, Qingyu 青玉桥, Heilong 黑龙桥 bridges) — karst gorge walk, escalators/elevators down | For 25 Nov, **budget ~¥95/adult for the low-season visitor package**; pre-book online (real-name) once the exact November product is released. |
-| 15:00–17:30 | Shuttle + train back to Chongqing | — |
-| Evening | Rest, casual dinner near hotel | — |
+| **~06:20–06:30** | **Hotel → Xiaoshizi (小什字) → Chongqing East Railway Station (重庆东站)** | Walk about **10–15 min** from the hotel to **Xiaoshizi** → take **Metro Line 6 toward 重庆东站**. Follow the Line 6 through-service/same-line transfer signage at **刘家坪** if required. Aim to reach Chongqing East by about **07:15–07:25** for station security and boarding. |
+| **~08:00–08:50 planning window** | **Chongqing East → Wulong South (武隆南站)** | Use a direct G-train. Current 2026 schedules have trains around **08:08** taking roughly **35–45 min**; the exact **25 Nov** train must be selected when 12306 opens. This replaces the old 1.5–2 hr rail estimate. |
+| ~08:45–09:40 | **Wulong South → Xiannv Town / Fairy Mountain Visitor Center (仙女镇 / 仙女山游客中心)** | Outside **武隆南站**, take the public/scenic-area shuttle (current planning fare about **¥16/person**) to the visitor center; allow roughly **50 min**. Confirm the return-shuttle location/time when you arrive. |
+| ~09:40–10:00 | **Visitor Center → Three Natural Bridges entrance** | Use the scenic-area transfer bus included with/linked to the attraction product. Follow the signs for **天生三桥**, not 龙水峡地缝 unless you later add that attraction. |
+| ~10:00–14:30 | **Three Natural Bridges (天生三桥)** | Scenic loop through Tianlong Bridge (天龙桥), Tianfu Official Post (天福官驿), Qinglong Bridge (青龙桥) and Heilong Bridge (黑龙桥). Keep the optional exit cart separate. |
+| ~14:30–16:15 | **Scenic exit → visitor center → Wulong South** | Scenic transfer back to the visitor center, then the public shuttle to **武隆南站**. Build a comfortable margin rather than booking a tight return HSR. |
+| **~16:30–18:30 target window** | **Wulong South → Chongqing East** | Book a direct return train that leaves enough time for the shuttle. Exact 25 Nov train TBD when 12306 opens. |
+| Evening | **Chongqing East → hotel** | **Line 6 → Xiaoshizi**, then walk ~10–15 min to the hotel. Dinner/rest around Jiefangbei. |
 
-### Day 2 — 26 Nov: Ciqikou → Downtown cluster → Guanyinqiao → Deyi World (Cyberpunk) at night
-| Time | Activity | Transport / Notes |
-|---|---|---|
-| 08:30–11:00 | **Ciqikou Ancient Town (磁器口古镇)** | Metro, ~30–40 min; free entry (small fees for individual sites inside) |
-| 11:00–11:40 | Transfer to downtown (Yuzhong Peninsula 渝中半岛) | Metro |
-| 11:40–13:00 | Lunch + **Jiefangbei (解放碑)** pedestrian street | — |
-| 13:00–14:00 | **Chaotianmen Square (朝天门广场)** (river confluence viewpoint) | Walkable from Jiefangbei |
-| 14:00–15:00 | **Shibati (十八梯)** (historic terraced old block) | Walkable |
-| 15:00–16:00 | **Liziba Monorail Station (李子坝轻轨站)** viewing platform (train through building) + **Kuixinglou (魁星楼)** viewpoint | Free public viewpoints; check train schedule for best photo timing |
-| 16:30–18:30 | **Guanyinqiao (观音桥)** (across river, Jiangbei district 江北区) — shopping street, dinner | Metro (~20 min) |
-| 19:00–21:00 | **Deyi World (得意世界) (Cyberpunk)** — neon walkways, night photography | Metro/bus (~20–30 min from Guanyinqiao); free public area |
-| ~21:30 | Return to hotel | Metro |
+**Wulong transport alternative:** if you prefer **zero rail/metro transfers**, current 2026 scenic-bus services run **Jiefangbei → Xiannv Town Visitor Center around 07:30** and return around **17:00** (roughly 3 hrs each way). It is simpler but slower than the Chongqing East → Wulong South HSR route, so the itinerary keeps HSR as the time-efficient default.
 
-### Day 3 — 27 Nov: Chongqing Zoo + Departure
-| Time | Activity | Transport / Notes |
+### Day 2 — 26 Nov: Efficient west/north loop — Ciqikou → Guanyinqiao → Liziba → Shibati → Deyi World
+| Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
-| 07:15–07:45 | Breakfast, check out, leave luggage at hotel | Keep luggage at hotel reception for collection after the zoo |
-| ~07:45–08:30 | Hotel → **Chongqing Zoo (重庆动物园)** | Assuming Jiefangbei-area hotel: walk/metro to **Line 2**, ride to **Zoo Station (动物园站)**; no Didi needed |
-| 08:30–11:00 | **Chongqing Zoo (重庆动物园)** — go to the giant panda area first, then nearby highlights | **¥25/adult in November**; animal viewing starts from ~08:30. Keep this to a focused 2–2.5 hr visit rather than covering the full zoo |
-| 11:00–11:45 | Zoo → hotel | Line 2 back toward Jiefangbei area; collect luggage |
-| 11:45–12:15 | Quick lunch / final preparation | Stay close to hotel so departure is not delayed |
-| **12:15–12:30** | Leave hotel for Chongqing Jiangbei Int'l Airport (重庆江北国际机场) | Public transport; allow extra time for transfer/walking with luggage. Exact route should be updated once the Chongqing hotel address is confirmed |
-| ~13:30–14:00 | Arrive airport, check in and clear security | Leaves roughly 3 hrs before the 17:00 flight |
+| **08:10–09:00** | **Hotel → Ciqikou Ancient Town (磁器口古镇)** | Walk ~2–4 min to **Linjiangmen (临江门)** → **Line 2 one stop to Jiaochangkou (较场口)** → transfer to **Line 1 toward Bishan (璧山) → Ciqikou (磁器口)**. Allow roughly **40–50 min door-to-door**. This starts with the farthest western stop. |
+| 09:00–11:00 | **Ciqikou Ancient Town** | Free public streets; morning is preferable before the busiest period. |
+| **11:00–11:45** | **Ciqikou → Guanyinqiao (观音桥)** | **Line 1 toward Chaotianmen → Lianglukou (两路口)** → transfer to **Line 3 northbound → Guanyinqiao**. Current route planners put the metro journey at roughly **37–45 min**. **Do not return to Jiefangbei in between.** |
+| 11:45–14:00 | **Guanyinqiao pedestrian/commercial area** + lunch | Explore the pedestrian street/food area. This is the northernmost stop of the day before working back toward Yuzhong. |
+| **14:00–14:30** | **Guanyinqiao → Liziba (李子坝)** | Take **Line 3 southbound → Niujiaotuo (牛角沱)** → transfer to **Line 2 toward Yudong (鱼洞) → Liziba (1 stop)**. |
+| 14:30–15:20 | **Liziba Monorail Viewing Platform** | Free viewpoint. Watch Line 2 trains pass through the building; allow time for photos rather than trying to time a particular train. |
+| **15:20–15:50** | **Liziba → Jiaochangkou / Shibati** | Take **Line 2 eastbound directly to Jiaochangkou (较场口)**, then walk to **Shibati (十八梯)**. This returns you to the downtown cluster only once, near the end of the day. |
+| 15:50–17:30 | **Shibati (十八梯)** | Historic terraced old block; free public area. Explore while there is still daylight and stay into early dusk if desired. |
+| 17:30–20:00 | **Shibati → Deyi World (得意世界)** + dinner/night photography | **Walk roughly 5–10 min** toward **较场口 / 得意世界**. This is the best time for the neon/cyberpunk atmosphere; free public area. |
+| ~20:00–20:30 | **Deyi World → hotel** | Either **walk ~15 min** through the Jiefangbei pedestrian area, or take **Line 2 Jiaochangkou → Linjiangmen (1 stop)** and walk ~110 m to the hotel. |
+
+**Why this order is more efficient:** the old plan went **Ciqikou → Jiefangbei → Chaotianmen/Shibati/Liziba → Guanyinqiao → back downtown**, creating unnecessary cross-city backtracking. The revised route travels **west (Ciqikou) → north (Guanyinqiao) → back through Liziba → downtown once**, while the east-side downtown sights (**Jiefangbei, Kuixinglou, Chaotianmen, Hongya Cave**) are grouped on 24 Nov because they are walkable from the hotel.
+
+### Day 3 — 27 Nov: Chongqing Zoo → hotel → Jiangbei Airport
+| Time | Activity | Route from/to hotel + Transport / Notes |
+|---|---|---|
+| 07:15–07:45 | Breakfast, check out, leave luggage at hotel | Keep luggage at reception for collection after the zoo. |
+| **~07:45–08:30** | **Hotel → Chongqing Zoo (重庆动物园)** | Walk ~2–4 min to **Linjiangmen (临江门)** → take **Line 2 toward Yudong (鱼洞) directly to Zoo / Dongwuyuan (动物园)**. **No transfer required.** Allow roughly **35–45 min door-to-door**. |
+| 08:30–11:00 | **Chongqing Zoo** — giant panda area first, then nearby highlights | **¥25/adult in November**; animal viewing starts around 08:30. Keep this focused rather than trying to cover the whole zoo. |
+| 11:00–11:45 | **Zoo → hotel** | **Line 2 direct back to Linjiangmen** → walk ~110 m to the hotel; collect luggage. |
+| 11:45–12:15 | Quick lunch / final preparation | Stay around Jiefangbei/Times Square so departure is not delayed. |
+| **~12:15** | **Hotel → Chongqing Jiangbei International Airport T3 (重庆江北国际机场T3)** | Walk to **Linjiangmen** → **Line 2 toward Yudong → Zengjiayan (曾家岩)** → transfer to **Line 10 toward Wangjiazhuang (王家庄)** → **Jiangbei Airport T3 (江北机场T3航站楼)**. All scheduled passenger flights are currently handled at T3; still confirm the terminal on the airline booking the day before. Allow roughly **55–70 min door-to-terminal** including the transfer/walking. |
+| ~13:15–13:30 | Arrive airport, check in and clear security | Leaves roughly **3.5 hrs before the 17:00 flight**. |
 | 17:00 | Flight departs | — |
 
-**Ticket notes for Chongqing:** Wulong Three Natural Bridges entrance + HSR — pre-book in advance. **Chongqing Zoo is ¥25/adult in November** and normally does not require advance booking. Hongya Cave, Jiefangbei, Chaotianmen Square, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao, and Deyi World are all free/no booking needed.
+**Ticket / transport notes for Chongqing:** pre-book the **25 Nov Chongqing East ↔ Wulong South** HSR and Wulong attraction product once November inventory opens. **Chongqing Zoo is ¥25/adult in November** and normally does not require advance booking. Hongya Cave, Jiefangbei, Chaotianmen, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao and Deyi World are free public sightseeing areas.
+
+**Route verification note (checked 21 Sep 2026):** **重庆时代广场 / 邹容路100号** is beside **Linjiangmen Line 2**; listings for Building B place the station about **110 m away**, Jiefangbei <100–300 m away, Hongya Cave ~570 m and Chaotianmen ~1.6 km. Current Chongqing rail patterns show **Chongqing East → Wulong South as fast as ~35 min**, with a roughly **50 min Wulong South → Xiannv Town scenic shuttle**. Chongqing Metro Line 6 serves Chongqing East; Line 2 directly connects **Linjiangmen ↔ Liziba ↔ Chongqing Zoo**, and Line 10 connects **Zengjiayan ↔ Jiangbei Airport T3**. Re-check exact November train numbers, Wulong shuttle times and metro first/last trains shortly before travel.
 
 ---
