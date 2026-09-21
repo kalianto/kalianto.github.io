@@ -359,7 +359,7 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 ### Entrance tickets — Chongqing (adult full price, Nov 2026)
 | Place | Adult fee | What the itinerary needs | Booking note |
 |---|---:|---|---|
-| **Hongya Cave / Qiansimen Bridge / Jiangbeizui riverfront / Ciqikou / Jiefangbei / Chaotianmen / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
+| **Hongya Cave / Qiansimen Bridge / Jiangbeizui riverfront / Ciqikou / Jiefangbei / Chaotianmen / Shancheng Alley / Mountain City Trail / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
 | **Wulong Three Natural Bridges (武隆天生三桥)** | **Budget ¥95/person*** | Low-season scenic-area package/transfer used for the standard visitor route | Pre-book once 25 Nov inventory opens; optional exit cart is extra |
 | Optional exit sightseeing cart at Wulong | **¥15** | Short ride from scenic exit instead of walking | Optional |
 | **Chongqing Zoo (重庆动物园)** | **¥25** | Morning visit on 27 Nov; panda houses + nearby highlights | January–November adult price; ticket sales from 08:00, animal viewing from 08:30 |
@@ -396,21 +396,22 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 
 **Wulong transport alternative:** if you prefer **zero rail/metro transfers**, current 2026 scenic-bus services run **Jiefangbei → Xiannv Town Visitor Center around 07:30** and return around **17:00** (roughly 3 hrs each way). It is simpler but slower than the Chongqing East → Wulong South HSR route, so the itinerary keeps HSR as the time-efficient default.
 
-### Day 2 — 26 Nov: Efficient west/north loop — Ciqikou → Guanyinqiao → Liziba → Shibati → Deyi World
+### Day 2 — 26 Nov: Efficient west/north loop — Ciqikou → Guanyinqiao → Liziba → Shancheng Alley / Mountain City Trail → Shibati → Deyi World
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | **08:10–09:00** | **Hotel → Ciqikou Ancient Town (磁器口古镇)** | Walk ~2–4 min to **Linjiangmen (临江门)** → **Line 2 one stop to Jiaochangkou (较场口)** → transfer to **Line 1 toward Bishan (璧山) → Ciqikou (磁器口)**. Allow roughly **40–50 min door-to-door**. This starts with the farthest western stop. |
 | 09:00–11:00 | **Ciqikou Ancient Town** | Free public streets; morning is preferable before the busiest period. |
 | **11:00–11:45** | **Ciqikou → Guanyinqiao (观音桥)** | **Line 1 toward Chaotianmen → Lianglukou (两路口)** → transfer to **Line 3 northbound → Guanyinqiao**. Current route planners put the metro journey at roughly **37–45 min**. **Do not return to Jiefangbei in between.** |
-| 11:45–14:00 | **Guanyinqiao pedestrian/commercial area** + lunch | Explore the pedestrian street/food area. This is the northernmost stop of the day before working back toward Yuzhong. |
-| **14:00–14:30** | **Guanyinqiao → Liziba (李子坝)** | Take **Line 3 southbound → Niujiaotuo (牛角沱)** → transfer to **Line 2 toward Yudong (鱼洞) → Liziba (1 stop)**. |
-| 14:30–15:20 | **Liziba Monorail Viewing Platform** | Free viewpoint. Watch Line 2 trains pass through the building; allow time for photos rather than trying to time a particular train. |
-| **15:20–15:50** | **Liziba → Jiaochangkou / Shibati** | Take **Line 2 eastbound directly to Jiaochangkou (较场口)**, then walk to **Shibati (十八梯)**. This returns you to the downtown cluster only once, near the end of the day. |
-| 15:50–17:30 | **Shibati (十八梯)** | Historic terraced old block; free public area. Explore while there is still daylight and stay into early dusk if desired. |
-| 17:30–20:00 | **Shibati → Deyi World (得意世界)** + dinner/night photography | **Walk roughly 5–10 min** toward **较场口 / 得意世界**. This is the best time for the neon/cyberpunk atmosphere; free public area. |
+| 11:45–13:40 | **Guanyinqiao pedestrian/commercial area** + lunch | Explore the pedestrian street/food area. Keep this to just under 2 hrs so there is enough daylight for the Mountain City Trail later. |
+| **13:40–14:10** | **Guanyinqiao → Liziba (李子坝)** | Take **Line 3 southbound → Niujiaotuo (牛角沱)** → transfer to **Line 2 toward Yudong (鱼洞) → Liziba (1 stop)**. |
+| 14:10–14:50 | **Liziba Monorail Viewing Platform** | Free viewpoint. Watch Line 2 trains pass through the building; ~40 min is enough for the main viewing platform and photos. |
+| **14:50–15:25** | **Liziba → Qixinggang (七星岗)** | Take **Line 2 eastbound → Jiaochangkou (较场口)** → transfer to **Line 1 toward Bishan (璧山) → Qixinggang (七星岗), 1 stop**. Exit toward the old-city side and walk toward **Tongyuan Gate (通远门) / Shancheng Alley entrance (山城巷入口)**. |
+| **15:25–17:10** | **Tongyuan Gate → Shancheng Alley (山城巷) → Mountain City Trail (山城步道)** | Walk the old-Chongqing hillside route **mostly downhill**: 通远门 → 山城巷 → cliffside/river-view sections of 山城步道 → **Zhongxing Road entrance (中兴路山城巷入口)**. Expect stone steps, elevation changes and uneven surfaces; wear shoes with good grip, especially if wet. Both the alley and trail are free. |
+| **17:10–18:15** | **Mountain City Trail → Shibati (十八梯传统风貌区)** | From the Zhongxing Road side, continue on foot to the **Shibati A-area / upper entrance**. The two areas are only about **300 m apart as the crow flies**, but allow extra time for Chongqing's stairs and level changes. Explore Shibati as daylight fades and the lanterns come on. |
+| **18:15–20:00** | **Shibati → Deyi World (得意世界)** + dinner/night photography | Walk roughly **5–10 min** toward **Jiaochangkou / 得意世界**. This preserves Deyi World for the proper after-dark neon/cyberpunk atmosphere; free public area. |
 | ~20:00–20:30 | **Deyi World → hotel** | Either **walk ~15 min** through the Jiefangbei pedestrian area, or take **Line 2 Jiaochangkou → Linjiangmen (1 stop)** and walk ~110 m to the hotel. |
 
-**Why this order is more efficient:** the old plan went **Ciqikou → Jiefangbei → Chaotianmen/Shibati/Liziba → Guanyinqiao → back downtown**, creating unnecessary cross-city backtracking. The revised route travels **west (Ciqikou) → north (Guanyinqiao) → back through Liziba → downtown once**, while the east-side downtown sights (**Jiefangbei, Kuixinglou, Chaotianmen, Hongya Cave**) are grouped on 24 Nov because they are walkable from the hotel.
+**Why this order is more efficient:** the route still travels **west (Ciqikou) → north (Guanyinqiao) → back through Liziba → downtown once**, but now enters the old-city walking zone from **Qixinggang** so you can descend through **Tongyuan Gate → Shancheng Alley → Mountain City Trail → Shibati** without backtracking. The east-side downtown sights (**Jiefangbei, Kuixinglou, Chaotianmen, Hongya Cave**) remain grouped on 24 Nov because they are walkable from the hotel.
 
 ### Day 3 — 27 Nov: Chongqing Zoo → hotel → Jiangbei Airport
 | Time | Activity | Route from/to hotel + Transport / Notes |
@@ -424,7 +425,7 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | ~13:15–13:30 | Arrive airport, check in and clear security | Leaves roughly **3.5 hrs before the 17:00 flight**. |
 | 17:00 | Flight departs | — |
 
-**Ticket / transport notes for Chongqing:** pre-book the **25 Nov Chongqing East ↔ Wulong South** HSR and Wulong attraction product once November inventory opens. **Chongqing Zoo is ¥25/adult in November** and normally does not require advance booking. Hongya Cave, Jiefangbei, Chaotianmen, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao and Deyi World are free public sightseeing areas.
+**Ticket / transport notes for Chongqing:** pre-book the **25 Nov Chongqing East ↔ Wulong South** HSR and Wulong attraction product once November inventory opens. **Chongqing Zoo is ¥25/adult in November** and normally does not require advance booking. Hongya Cave, Jiefangbei, Chaotianmen, **Shancheng Alley / Mountain City Trail**, Shibati, Liziba viewing platform, Kuixinglou, Ciqikou, Guanyinqiao and Deyi World are free public sightseeing areas.
 
 **Route verification note (checked 21 Sep 2026):** **重庆时代广场 / 邹容路100号** is beside **Linjiangmen Line 2**; listings for Building B place the station about **110 m away**, Jiefangbei <100–300 m away, Hongya Cave ~570 m and Chaotianmen ~1.6 km. Current Chongqing rail patterns show **Chongqing East → Wulong South as fast as ~35 min**, with a roughly **50 min Wulong South → Xiannv Town scenic shuttle**. Chongqing Metro Line 6 serves Chongqing East; Line 2 directly connects **Linjiangmen ↔ Liziba ↔ Chongqing Zoo**, and Line 10 connects **Zengjiayan ↔ Jiangbei Airport T3**. Re-check exact November train numbers, Wulong shuttle times and metro first/last trains shortly before travel.
 
