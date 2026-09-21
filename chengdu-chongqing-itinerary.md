@@ -359,7 +359,7 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 ### Entrance tickets — Chongqing (adult full price, Nov 2026)
 | Place | Adult fee | What the itinerary needs | Booking note |
 |---|---:|---|---|
-| **Hongya Cave / Ciqikou / Jiefangbei / Chaotianmen / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
+| **Hongya Cave / Qiansimen Bridge / Jiangbeizui riverfront / Ciqikou / Jiefangbei / Chaotianmen / Shibati / Liziba / Kuixinglou / Guanyinqiao / Deyi World** | **Free** | Public sightseeing areas in this itinerary | No attraction ticket |
 | **Wulong Three Natural Bridges (武隆天生三桥)** | **Budget ¥95/person*** | Low-season scenic-area package/transfer used for the standard visitor route | Pre-book once 25 Nov inventory opens; optional exit cart is extra |
 | Optional exit sightseeing cart at Wulong | **¥15** | Short ride from scenic exit instead of walking | Optional |
 | **Chongqing Zoo (重庆动物园)** | **¥25** | Morning visit on 27 Nov; panda houses + nearby highlights | January–November adult price; ticket sales from 08:00, animal viewing from 08:30 |
@@ -367,17 +367,20 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 
 *Wulong price note: the itinerary keeps the existing provisional November budget until the exact 25 Nov ticket product opens. Check the official/authorized booking-page total before purchase because admission, scenic transfer and elevator components can be packaged differently.*
 
-### Day 0 — 24 Nov: Zhangjiajie → hotel → Jiefangbei / Kuixinglou / Chaotianmen → Hongya Cave at night
+### Day 0 — 24 Nov: Zhangjiajie → hotel → Jiefangbei / Kuixinglou / Chaotianmen → Hongya Cave → Qiansimen Bridge → Jiangbeizui night view
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | Late morning / early afternoon | **Arrive Chongqing → hotel** | **If your train arrives at Chongqing East (重庆东站):** take **Metro Line 6 toward the city → Xiaoshizi (小什字)**; follow the Line 6 through-service/same-line transfer signs at **Liujiaping (刘家坪)** if required, then walk roughly **10–15 min** from Xiaoshizi to **时代豪苑B栋 / 邹容路100号**. **If your train arrives at Chongqing North (重庆北站):** take **Line 10 → Zengjiayan (曾家岩)** → transfer to **Line 2 → Linjiangmen (临江门)** → walk ~110 m to the hotel. Use the route matching the actual 24 Nov ticket. |
 | After arrival | Check in / leave luggage, short rest | Hotel is directly in the **Jiefangbei core**, so the afternoon/evening loop requires very little transport. |
 | ~15:00–15:30 | **Hotel → Jiefangbei (解放碑)** | Walk **<5 min**. The monument/pedestrian core is essentially beside the hotel. |
 | ~15:30–16:15 | **Jiefangbei → Kuixinglou (魁星楼)** | Walk through the Jiefangbei/Datong Street area, roughly **10–15 min** depending on the chosen entrance. Use Amap/Baidu for the correct level/entrance because the viewpoint is vertically layered. |
-| ~16:15–17:15 | **Kuixinglou → Chaotianmen / Raffles City (朝天门 / 来福士)** | Walk east toward Chaotianmen, roughly **20–25 min / ~1.5 km** from the hotel zone. Enjoy the river-confluence/skyline area before dark. If the Zhangjiajie train arrives late, **skip Chaotianmen rather than rushing** and keep Jiefangbei + Hongya Cave. |
+| ~16:15–17:15 | **Kuixinglou → Chaotianmen / Raffles City (朝天门 / 来福士)** | Walk east toward Chaotianmen, roughly **20–25 min / ~1.5 km** from the hotel zone. Enjoy the river-confluence/skyline area before dark. If the Zhangjiajie train arrives late, **skip Chaotianmen rather than rushing** and keep Jiefangbei + Hongya Cave + the cross-river photo. |
 | ~17:15–18:00 | **Chaotianmen → Hongya Cave (洪崖洞)** | Walk west along the Yuzhong riverside/road network toward Hongya Cave, or use **Line 1 Chaotianmen → Xiaoshizi (1 stop)** and walk the final section if tired. Aim to reach Hongya around dusk. |
-| ~18:00–20:30 | **Hongya Cave** + dinner nearby | Free public area; best after dark. Allow time to see the complex from both the upper-road level and the riverside/lower viewpoint. |
-| ~20:30 | **Hongya Cave → hotel** | Walk roughly **8–12 min** back to **时代豪苑B栋**. No metro is needed. |
+| ~18:00–19:15 | **Hongya Cave** + dinner / close-up night views | Free public area. See the complex from the upper-road level and, if energy allows, the lower/riverside viewpoint before heading to the bridge. In November the lights should already be on by this part of the evening, but confirm the current lighting time locally. |
+| ~19:15–19:35 | **Hongya Cave → Qiansimen Jialing River Bridge (千厮门嘉陵江大桥)** | From the **Hongya Cave 11F / Cangbai Road (沧白路)** side, follow signs onto the **pedestrian walkway** of Qiansimen Bridge and walk toward **Jiangbei / Chongqing Grand Theatre (重庆大剧院)**. The bridge crossing is roughly **720 m**; pause on the bridge for elevated views of Hongya Cave and the Jialing River. |
+| ~19:35–20:20 | **Cross to Jiangbeizui / Grand Theatre riverfront (江北嘴 / 重庆大剧院江滩)** | Continue off the north end of the bridge and walk toward the **Grand Theatre / Jiangbeizui riverfront**. This is the key **across-the-river photo stop**: frame **Hongya Cave + Qiansimen Bridge + the Yuzhong skyline** together. Prefer the paved/railed promenade rather than stepping onto dark or wet exposed riverbank areas. |
+| ~20:20–20:45 | **Grand Theatre → hotel** | Walk to **Grand Theatre Metro Station (大剧院站)** → take **Line 6 toward Chayuan / 茶园 → Xiaoshizi (小什字), 1 stop** → walk roughly **10–15 min** back to **时代豪苑B栋 / 邹容路100号**. This avoids retracing the bridge on foot. |
+| ~20:45 onward | Back at hotel / optional late supper near Jiefangbei | Easy finish close to the hotel. |
 
 ### Day 1 — 25 Nov: Wulong Three Natural Bridges — faster HSR route via Chongqing East
 | Time | Activity | Route from/to hotel + Transport / Notes |
