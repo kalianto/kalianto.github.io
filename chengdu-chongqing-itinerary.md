@@ -76,7 +76,7 @@
 ### Entrance tickets — Chengdu (adult full price, Nov 2026)
 | Place | Adult fee | What the itinerary needs | Booking note |
 |---|---:|---|---|
-| **Kuanzhai Alley / Jinli / Tianfu Square / People's Park / Chunxi Road / Chengdu SKP** | **Free** | Public areas | No ticket |
+| **Kuanzhai Alley / Jinli / Tianfu Square / People's Park / Chunxi Road / New Century Global Center / Chengdu SKP** | **Free** | Public areas / shopping complexes | No general admission; paid attractions inside Global Center are optional |
 | **Wuhou Shrine Museum (成都武侯祠博物馆)** — optional while at Jinli | **¥50** | Museum admission only; Jinli remains free | Official museum price; reserve if you decide to enter |
 | **Dujiangyan Irrigation System (都江堰景区)** | **¥60*** | Scenic-area admission | 14 Nov falls in the published 2026 low-season period; confirm the final Nov price when inventory opens |
 | **South Bridge / “Blue Tears” (南桥 / 蓝眼泪)** | **Free** | Outdoor river lighting/nightscape | No show ticket required |
@@ -84,15 +84,18 @@
 
 *Dujiangyan note: current 2026 sources publish a ¥60 low-season adult rate for November, while some live OTA listings still display ¥80 depending on date/inventory. Budget ¥60 but verify in the official 青城山都江堰/悦游都江堰 channel when 14 Nov tickets open.*
 
-### Day 1 — 13 Nov (Arrival + central Chengdu + SKP)
+### Day 1 — 13 Nov (Arrival + central Chengdu + New Century Global Center + SKP)
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | 12:00 | Land Chengdu Shuangliu Airport T2 (成都双流国际机场) | — |
 | 12:30–13:30 | **Airport → hotel** | From **双流机场2航站楼站 (Shuangliu Airport T2)** take **Metro Line 10 toward 武侯祠 (Wuhou Shrine)** → get off **高升桥 (Gaoshengqiao)** → transfer to **Line 3 toward 成都医学院** → **春熙路 (Chunxi Road)** → transfer to **Line 2 toward 龙泉驿** → **东门大桥 (Dongmen Bridge), 1 stop** → walk ~250 m to hotel. Allow roughly **50–65 min** including transfers/walking. |
 | 13:30–14:30 | Check in, rest | Hotel: SOHO我的寓所, 天仙桥北路1号 |
 | 14:30–17:00 | **Hotel → Tianfu Square (天府广场) → People's Park (人民公园) → Chunxi Road (春熙路)** | Walk hotel → **东门大桥站** → **Line 2 toward 犀浦 (Xipu)**: **2 stops to 天府广场**. After Tianfu Square, continue **Line 2 one stop to 人民公园**. After the park, take **Line 2 eastbound 2 stops to 春熙路**. All attractions are free. |
-| 17:30–20:30 | **Chunxi Road → Chengdu SKP (成都SKP) – Tower of Life** + dinner/shopping | **春熙路 Line 3** → **省体育馆 (Sichuan Gymnasium)** → transfer to **Line 1 southbound** → **锦城广场 (Jincheng Plaza)** → use **Exit E** and walk about **500 m / 5–10 min** to Chengdu SKP / Tower of Life. Free entry. |
-| ~21:00 | **SKP → hotel** | Walk back to **锦城广场站** → **Line 1 northbound** → **省体育馆** → **Line 3 northbound** → **春熙路**. From Chunxi Road either **walk ~10–12 min to the hotel** (simplest at night) or transfer to **Line 2 one stop east to 东门大桥**, then walk ~250 m. |
+| ~17:00–17:35 | **Chunxi Road → New Century Global Center (新世纪环球中心)** | **春熙路 Line 3** → **省体育馆 (Sichuan Gymnasium)** → transfer to **Line 1 southbound** → **锦城广场 (Jincheng Plaza)**. Use the exit signed for **环球中心 / Global Center** (commonly Exit C) and walk roughly **5–10 min** to the complex. |
+| **~17:35–18:45** | **New Century Global Center (新世纪环球中心)** | Explore the immense central atrium, shopping areas and public interior. **General entry is free**; Paradise Island Water Park and other internal attractions are optional/paid and are not part of this short visit. Current public listings show the mall operating roughly **10:00–22:00**. |
+| **~18:45–19:00** | **Global Center → Chengdu SKP (成都SKP)** | Walk east toward **Chengdu SKP / Tower of Life**. The two complexes are in the same Jincheng Plaza cluster, roughly **450–700 m apart depending on entrances**; allow about **7–12 min** on foot. |
+| **19:00–20:45** | **Chengdu SKP – Tower of Life** + dinner/shopping | Explore SKP after dark for the illuminated **Tower of Life / 生机之塔** and dinner. Free public shopping-area access. |
+| ~20:45–21:30 | **SKP → hotel** | Walk back toward **锦城广场站 (Jincheng Plaza)** → **Line 1 northbound** → **省体育馆** → **Line 3 northbound** → **春熙路**. From Chunxi Road either **walk ~10–12 min to the hotel** (simplest at night) or transfer to **Line 2 one stop east to 东门大桥**, then walk ~250 m. |
 
 ### Day 2 — 14 Nov (Kuanzhai + Jinli + Dujiangyan + South Bridge “Blue Tears”)
 | Time | Activity | Route from/to hotel + Transport / Notes |
@@ -116,7 +119,7 @@
 | After rail arrival | **Huanglongjiuzhai Station → Jiuzhaigou valley town / park-gate area** | Use the **official/scenic direct shuttle bus** from the railway station to Jiuzhaigou valley; typical road transfer is about **2 hrs**. Book/confirm the matching shuttle after the November rail timetable is fixed. No Didi needed. |
 | Afternoon | Check in, rest/short local walk near town | — |
 
-**Ticket / transport notes for Chengdu:** Tianfu Square, People's Park, Chunxi Road, Kuanzhai Alley, Jinli Street and Chengdu SKP are free/no booking. For Dujiangyan, pre-book the **scenic-area entrance** and both **犀浦 ↔ 离堆公园** S-trains. The South Bridge **“Blue Tears” lighting is free** and does **not** need a show/combo ticket. For the Jiuzhaigou transfer, book **成都东 → 黄龙九寨** rail plus the onward valley shuttle once the November schedules are available.
+**Ticket / transport notes for Chengdu:** Tianfu Square, People's Park, Chunxi Road, Kuanzhai Alley, Jinli Street, **New Century Global Center** and Chengdu SKP are free/no booking for general public access. Paid attractions inside Global Center (such as Paradise Island Water Park) are optional and not included in this itinerary. For Dujiangyan, pre-book the **scenic-area entrance** and both **犀浦 ↔ 离堆公园** S-trains. The South Bridge **“Blue Tears” lighting is free** and does **not** need a show/combo ticket. For the Jiuzhaigou transfer, book **成都东 → 黄龙九寨** rail plus the onward valley shuttle once the November schedules are available.
 
 **Route verification note (checked 1 Sep 2026):** Chengdu metro lines/stations and railway patterns can be adjusted. Re-check the exact platform, last-train time and November S-train/黄龙九寨 timetable in **Amap (高德地图), Baidu Maps (百度地图), Chengdu Metro app, and 12306** shortly before travel.
 
