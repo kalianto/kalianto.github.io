@@ -59,7 +59,7 @@
 | Chongqing (重庆) | Chongqing Zoo (重庆动物园) | **¥25** | On-site / official channels; no advance booking normally needed |
 
 
-*Free/no-booking spots (Chengdu's Tianfu Sq/People's Park/Chunxi Rd/Kuanzhai Alley/Jinli St/SKP, Xi'An's Muslim Quarter/Datang Everbright City, Fenghuang Ancient Town, and Chongqing's Hongya Cave/Jiefangbei/Chaotianmen/Shibati/Liziba/Kuixinglou/Ciqikou/Guanyinqiao/Deyi World) aren't listed above — no pre-booking needed. Furong Town is ticketed.*
+*Free/no-booking spots (Chengdu's Tianfu Sq/People's Park/Chunxi Rd/Kuanzhai Alley/Jinli St/SKP, Xi'An's Muslim Quarter/Datang Everbright City, **Zhangjiajie's Dayong Ancient City public streets + Hourong Street**, Fenghuang Ancient Town, and Chongqing's Hongya Cave/Jiefangbei/Chaotianmen/Shibati/Liziba/Kuixinglou/Ciqikou/Guanyinqiao/Deyi World) aren't listed above — no pre-booking needed. Furong Town is ticketed.*
 
 **Estimated required attraction/scenic-transport budget for the itinerary:** **~¥1,380 per adult / ~¥2,760 for 2 travellers**. This excludes optional Wuhou Shrine, Bell/Drum Tower climbs, Da Ci'en Temple/pagoda climb, optional insurance/exit carts, intercity rail/air tickets, and normal public transport. The total uses the provisional November budgets shown for Dujiangyan and Wulong and should be refreshed when those date-specific tickets open.
 
@@ -221,18 +221,17 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | 16:00–19:30 | **Big Wild Goose Pagoda → Datang Everbright City (大唐不夜城)** | **Walk south** from the pagoda into 大唐不夜城. Free public pedestrian area; enjoy the lights/street atmosphere and dinner. Skip ticketed stage performances per itinerary preference. |
 | ~19:30–20:15 | **Datang Everbright City → hotel** | Walk back toward **Dayanta (大雁塔) Metro** → take **Line 4 northbound → Dachaishi (大差市)** → transfer to **Line 6 westbound → Guangjijie (广济街)** → walk ~3 min to hotel. If you finish at the far south end of 大唐不夜城, use the nearest open metro entrance shown by Amap/Baidu that evening, then route back to **广济街**. |
 
-### Day 3 — 19 Nov (City Wall → hotel → Xi'An Xianyang Airport)
+### Day 3 — 19 Nov (short City Wall visit → 12:20 flight → Zhangjiajie)
 | Time | Activity | Route from hotel + Transport / Notes |
 |---|---|---|
-| 07:35–08:00 | **Hotel → Yongningmen / South Gate (永宁门)** | Walk to **Zhonglou (钟楼)** or **Guangjijie (广济街)**. Easiest: walk ~5–10 min to **Zhonglou**, take **Line 2 southbound 1 stop → Yongningmen (永宁门)**, then walk to the South Gate entrance. The wall normally opens at **08:00**, so there is no benefit arriving much earlier. |
-| 08:00–10:30 | **Xi'An Ancient City Wall (西安城墙)** — bike loop or relaxed walk | Enter at **Yongningmen (南门)**. Full wall circuit is ~13.7 km; allow ~1.5–2.5 hrs by bicycle depending on photo stops. Standard adult ticket **¥54**; bike rental is separate. Pre-booking is convenient but low-season same-day purchase is usually possible. |
-| 10:30–11:00 | **Yongningmen → hotel** | **Line 2 northbound 1 stop → Zhonglou**, then walk ~5–10 min west to the hotel. |
-| 11:00–12:30 | Lunch near hotel / Muslim Quarter, return to hotel, check out | Keep luggage at reception if needed while eating nearby. |
-| **~3.5–4 hrs before flight** | **Hotel → Xi'An Xianyang International Airport (西安咸阳国际机场)** | Walk to **Zhonglou (钟楼)** → **Metro Line 2 northbound → Xi'An North (西安北站)** → transfer to **Line 14 toward the airport**. Use **Airport West / 机场西 (T1, T2, T3)** for those terminals, or **Airport / 机场 (T5)** if your airline departs from T5. Allow about **70–90 min door-to-terminal**, including walking and the transfer at Xi'An North. **No Didi/taxi needed.** |
-| **~2.5 hrs before flight** | Airport check-in, security, boarding | Keep roughly **2.5 hrs at the airport before departure**. Confirm the departure terminal with the airline the day before because Xi'An Airport now uses both the T1–T3 complex and T5. |
-| **Evening — exact flight time TBD** | Flight to **Zhangjiajie Hehua Airport (张家界荷花机场)** | Current expectation is to **land around 21:00**; use the actual booked flight time when final. |
-| After landing | Transfer onward in Zhangjiajie | See **Zhangjiajie Day 0** below for the exact **Hehua Airport → Ningbang Plaza / Building 21** route. Current arrival expectation is around **21:00**. |
-| Evening | Check in, dinner, rest | — |
+| 07:25–07:55 | **Hotel → Yongningmen / South Gate (永宁门)** | Leave luggage packed at the hotel. Walk to **Zhonglou (钟楼)**, take **Line 2 southbound 1 stop → Yongningmen (永宁门)**, then walk to the South Gate entrance. The wall opens at about **08:00** in November. |
+| 08:00–08:40 | **Xi'An Ancient City Wall (西安城墙)** — short South Gate section only | With the **12:20 flight**, skip the full 13.7 km bike circuit. Do a **30–40 min out-and-back walk** from Yongningmen for the views, then leave promptly. Adult entry is **¥54**; bike rental is not worthwhile for this short visit. |
+| 08:40–09:05 | **Yongningmen → hotel** | **Line 2 northbound 1 stop → Zhonglou**, then walk back to the hotel. |
+| 09:05–09:15 | Collect luggage, check out | Have breakfast before leaving or buy food at the airport; there is no longer time for the old sit-down lunch block. |
+| **09:15–10:35** | **Hotel → Xi'An Xianyang International Airport (西安咸阳国际机场)** | Walk to **Zhonglou (钟楼)** → **Line 2 northbound → Xi'An North (西安北站)** → transfer to **Line 14 toward the airport**. Allow **70–90 min door-to-terminal**. Use **Airport West / 机场西 (T1, T2, T3)** or **Airport / 机场 (T5)** according to the airline terminal. **No Didi/app ride-hailing.** |
+| 10:35–12:00 | Check-in, security, boarding | Aim to be at the terminal about **1 hr 45 min before departure**. Confirm the departure terminal with the airline the day before. |
+| **12:20–13:40** | **Flight: Xi'An → Zhangjiajie Hehua Airport (张家界荷花机场)** | **Booked.** Scheduled flight time **1 hr 20 min**. |
+| 13:40 onward | Continue with **Zhangjiajie Day 0** below | The earlier arrival now allows hotel check-in in the afternoon and **72 Strange Buildings in the evening**. |
 
 **Ticket / transport notes for Xi'An:** Terracotta Army entrance must be pre-booked (real-name/timed). For **18 Nov**, use **Guangjijie Line 6 → Fangzhicheng → Line 9 Huaqingchi → 游613/602**, rather than travelling first to Xi'An Railway Station. City Wall opens from about **08:00**; ticket can generally be bought on-site in low season, though advance booking is easy. Bell Tower/Drum Tower climb tickets are optional; their exterior night views, Muslim Quarter and Datang Everbright City are free.
 
@@ -247,16 +246,21 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 **Primary transport anchor:** **Zhangjiajie West Railway Station (张家界西站)** — the exact Building 21 address is listed about **740 m / ~11 min walk** from the station.  
 **Secondary transport anchor:** **Zhangjiajie High-Speed Bus Terminal (张家界高铁汽车客运站)** beside the West-station complex — roughly **600 m / ~8–12 min walk** from Building 21; use it for the direct **city-scenic bus (城景巴士)** to Wulingyuan.  
 **Useful city bus:** **Bus 17 (17路)** links Zhangjiajie West with **张家界航院** (72 Strange Buildings area), **武陵山珍馆** (walk to Tianmen Mountain lower cableway), and Zhangjiajie Railway Station. Current published operation is about **05:40–20:40**, so do not plan a public-bus return from 72 Strange Buildings after that.  
-**Route rule for Zhangjiajie:** walking + public city bus + official city-scenic bus + HSR; **no Didi/app ride-hailing**. For the late airport arrival, a **pre-arranged hotel/host transfer is preferred** because published operating hours for the airport bus conflict.
+**Route rule for Zhangjiajie:** walking + public city bus + official city-scenic bus + HSR; **no Didi/app ride-hailing**. With the booked **13:40 arrival on 19 Nov**, use **Bus 4 (4路)** from Hehua Airport toward **Zhangjiajie West / 高铁站**, then walk to Building 21. Keep a hotel-arranged pickup or official airport taxi rank only as a fallback if public transport is disrupted.
 
 *(Keep the **same Zhangjiajie hotel for all 5 nights, 19–24 Nov**. Furong Town and Fenghuang Ancient Town remain separate high-speed-rail day trips; no overnight stay in Fenghuang.)*
 
-### Day 0 — 19 Nov: Zhangjiajie Hehua Airport → hotel (late arrival)
+### Day 0 — 19 Nov: Zhangjiajie arrival → hotel → 72 Strange Buildings
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
-| ~21:00 | Arrive **Zhangjiajie Hehua International Airport (张家界荷花国际机场)** | The hotel is roughly **9.5–10 km** from the airport / about **20–25 min by road**. |
-| ~21:10–21:40 | **Airport → hotel, 宁邦广场二期文化里21栋1201** | **Recommended for a ~21:00 arrival: pre-arrange a pickup with the hotel/host before flying.** This is the most reliable no-Didi option at that hour. **Public-transport backup:** Bus **4 (4路)** now runs between the airport and **Zhangjiajie West / 高铁站**, but currently published operating hours conflict (some sources show an early finish while others show later service). If a 4路 bus is visibly operating when you land, take it to **张家界西站 / 高铁站** → walk about **740 m / 11 min** to Building 21. If 4路 has finished and the hotel cannot pick you up, use the **official airport taxi rank only as a late-night fallback**, not app ride-hailing. |
-| ~21:40 onward | Check in, light dinner/rest | The Ningbang Plaza/West-station area has restaurants and convenience shops; keep the first night easy. |
+| **13:40** | Arrive **Zhangjiajie Hehua International Airport (张家界荷花国际机场)** | Allow roughly **30–40 min** to deplane and collect luggage. |
+| ~14:15–15:10 | **Hehua Airport → Zhangjiajie West / 高铁站** | Take **Bus 4 (4路)** from the airport toward **Zhangjiajie West Railway Station / 高铁站**. Current routing serves the airport and West Station; allow extra time for waiting and intermediate stops. |
+| ~15:10–15:25 | **Zhangjiajie West → hotel, 宁邦广场二期文化里21栋1201** | Walk about **740 m / ~11 min** from the station to Building 21. |
+| 15:25–16:30 | Check in, rest, late lunch / early dinner | Keep this buffer relaxed after the flight. |
+| ~16:35–17:15 | **Hotel → 72 Strange Buildings (七十二奇楼)** | Walk back to **张家界西站 / 高铁站** → take **Bus 17 (17路) toward 火车站** → get off at **张家界航院站** → walk a few minutes to **七十二奇楼, 武陵山大道1号**. |
+| **17:15–20:00** | **72 Strange Buildings** — illuminated stilted complex/night photography | Night ticket **¥88**. Performances are optional; focus on the lights, architecture and dinner/snacks. |
+| **~20:00–20:40** | **72 Strange Buildings → hotel** | Leave around **20:00–20:10** to protect the public-bus return. Walk to **张家界航院站** → take **17路 toward 高铁站** → get off at **张家界西站 / 高铁站** → walk ~11 min to the hotel. Current published Bus 17 service ends around **20:40**, so do not linger too late if you want to stay on public transport. |
+| ~20:45 onward | Rest | Early night before the Forest Park day on 20 Nov. |
 
 ### Entrance tickets — Zhangjiajie + Xiangxi day trips (adult full price, Nov 2026)
 | Place / required scenic transport | Adult fee | What it covers | Booking note |
@@ -264,7 +268,7 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | **Zhangjiajie National Forest Park / Wulingyuan core (张家界国家森林公园 / 武陵源核心景区)** | **¥240** | 2026 practical **scenic-area + eco-bus** ticket used for this route | Pre-book, real-name; park ticket is multi-day valid, but this itinerary uses it on 20 Nov |
 | **Bailong Elevator (百龙天梯)** | **¥65 one-way** | Elevator to/from Yuanjiajie | **Separate from park pass**; round trip ¥130 |
 | **Tianzi Mountain Cableway (天子山索道)** | **¥72 one-way** | Cableway leg | Separate from park pass; round trip ¥144 |
-| **Tianmen Mountain (天门山) A/B/C package** | **¥288** | Current standard adult package including the core mountain entry + specified cableway/transport for the selected route | **Timed entry; pre-book** |
+| **Tianmen Mountain (天门山) — Route C during cableway renovation** | **Budget ¥288** | Core mountain entry + transport included in the selected ticket product; **as of 13 Oct 2026 only Route C is operating** | **Timed entry; pre-book and verify the current Route C product/price for 22 Nov** |
 | **Tianmen Mountain glass skywalk service/shoe cover** | **¥5** | Glass-walkway service fee | Pay on site if using the glass skywalk |
 | **72 Strange Buildings (七十二奇楼) night ticket** | **¥88** | Night entry from 16:30 | Pre-book recommended |
 | **Furong Town (芙蓉镇)** | **¥108** | Scenic-town admission | Ticketed; scheduled performances may be included but can be ignored/skipped |
@@ -301,17 +305,22 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 | Late evening | **Zhangjiajie West → hotel** | Walk **~740 m / ~11 min** to Building 21. Return to the same hotel and rest. |
 
 
-### Day 3 — 22 Nov: Hotel → Tianmen Mountain → hotel → 72 Strange Buildings → hotel
+### Day 3 — 22 Nov: Tianmen Mountain (Route C) → Dayong Ancient City → Hourong Street local-food evening
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
-| ~07:35–08:20 | **Hotel → Tianmen Mountain lower cableway (天门山索道下站)** | Walk ~11 min to **张家界西站 / 高铁站** → take **Bus 17 (17路) toward 火车站** → get off at **武陵山珍馆站** → walk roughly **300 m** to the Tianmen Mountain cableway lower station. Allow **40–50 min door-to-cableway** including waiting. |
-| 08:30–10:00 | Long cable-car ride up | **A/B/C adult package currently ¥288; timed-entry ticket — pre-book online.** If your booked route starts from a different lower station, use the scenic-area shuttle instructions printed on that ticket. |
-| 10:00–14:00 | Glass skywalk, Tianmen Cave (天门洞), 99-Bend Heaven-Linking Avenue viewpoint | **Glass skywalk service/shoe-cover fee ¥5** if used. |
-| 14:00–15:30 | Descend | Cable car / scenic transport according to booked route. |
-| ~15:30–16:20 | **Tianmen cableway area → hotel** | Walk back to **武陵山珍馆站** → **17路 toward 高铁站** → get off at **张家界西站 / 高铁站** → walk ~11 min to hotel. Rest/freshen up. |
-| ~16:45–17:20 | **Hotel → 72 Strange Buildings (七十二奇楼)** | Walk to **张家界西站 / 高铁站** → take **17路 toward 火车站** → get off at **张家界航院站** → walk a few minutes to **七十二奇楼, 武陵山大道1号**. |
-| 17:20–20:10 | **72 Strange Buildings** — illuminated stilted complex/night photography | Night ticket **¥88**. You still get the dusk-to-night lighting period; performances remain optional and can be skipped. |
-| **~20:10–20:40** | **72 Strange Buildings → hotel** | Walk back to **张家界航院站** and take **17路 toward 高铁站**. **Current 17路 published service ends around 20:40, so leave the attraction by ~20:10–20:15 and do not wait until 21:30 if you want a public-bus return.** Get off at **高铁站** → walk ~11 min to hotel. If you intentionally stay later, arrange a **hotel/host pickup in advance**. |
+| ~07:20–08:10 | **Hotel → Tianmen Mountain downtown lower-station area (天门山索道下站)** | Walk ~11 min to **张家界西站 / 高铁站** → take **Bus 17 (17路) toward 火车站** → get off at **武陵山珍馆站** → walk roughly **300 m** to the Tianmen Mountain lower-station area. Allow extra time for waiting. |
+| ~08:10–08:40 | **Lower-station area → Mountain Gate (山门)** | **Important current operation:** from **13 Oct 2026**, the main Tianmen Mountain cableway is under renovation and **Routes A/B plus one-way Routes 1/2 are suspended**. Use the scenic-area **shuttle between the downtown lower station and Mountain Gate**, which remains in operation, then enter on **Route C**. |
+| ~08:40–09:15 | **Route C: Tianmen Cave Express Cableway → Tianmen Cave (天门洞)** | Route C uses the **Tianmen Cave Express Cableway (天门洞快线索道)** from Mountain Gate. Timed entry; pre-book the current Route C product and follow the time printed on the ticket. |
+| ~09:15–10:00 | **Tianmen Cave + 7-stage mountain escalator to summit** | Explore Tianmen Cave, then use the **7-stage mountain-piercing escalator (穿山自动扶梯)** to reach the summit area. The current Route C ticket includes the express cableway round trip and upper escalator round trip; verify any optional lower escalator fee on the day. |
+| 10:00–13:30 | **Tianmen Mountain summit circuit** — cliff walks, viewpoints, glass skywalk if open | Glass skywalk service/shoe-cover fee is typically **¥5** if used. Weather/maintenance can close individual glass walkways. The old 99-Bend road ride is **not part of the current Route C operating pattern**, so do not plan around it. |
+| ~13:30–15:00 | **Summit → Tianmen Cave → Mountain Gate** | Return via the **7-stage escalator** to Tianmen Cave, then take the **Tianmen Cave Express Cableway** down to Mountain Gate. |
+| ~15:00–15:30 | **Mountain Gate → downtown lower-station area** | Take the scenic-area shuttle back toward the downtown lower station. Grab a drink/snack before the evening walk if needed. |
+| ~15:30–16:15 | **Tianmen area → Dayong Ancient City (大庸古城 / 大庸府城)** | From the downtown/railway-station side, use the current public-bus routing toward **大庸府城**. **Bus 8 (8路)** currently serves both **大庸府城** and **后溶街口**, but Zhangjiajie adjusted several city-bus routes in Sep 2026, so confirm the live route in Amap/Baidu before boarding. |
+| **16:15–18:00** | **Dayong Ancient City (大庸古城)** | Walk the public historic-style streets and Lishui riverfront as the lights come on. The relaunched public street district is **free to wander**; paid shows/cruises are optional and can be skipped. |
+| ~18:00–18:30 | **Dayong Ancient City → Hourong Street (后溶街 / 后溶美食街)** | Prefer **walking through the central streets** (roughly **20–30 min depending on the exact food-street section**) so you are not tied to a bus timetable. Bus 8 also serves **后溶街口**, but current published service ends around **18:30**, so do not rely on it later in the evening. |
+| **18:30–19:45** | **Hourong Street local-food dinner** | Treat this as the local-food stop rather than another attraction. 后溶街 is known as a large night-food area popular with local younger residents; follow the busiest local stalls and try small portions from several vendors rather than committing to one tourist-menu restaurant. |
+| ~19:45–20:45 | **Hourong Street → hotel / Zhangjiajie West** | Check **Amap/Baidu live public-bus routing from 后溶街口 to 张家界西站** before finishing dinner because evening service varies by line. From Zhangjiajie West walk ~11 min to Building 21. If live public transport has already finished, use a **pre-arranged hotel/host pickup** or an **official street/stand taxi only as a fallback**, not app ride-hailing. |
+| ~20:45 onward | Rest | 72 Strange Buildings is already covered on **19 Nov**, so there is no need to repeat another commercial night attraction after Tianmen Mountain. |
 
 
 ### Day 4 — 23 Nov: Hotel → Fenghuang Ancient Town day trip → hotel
@@ -341,11 +350,11 @@ If you choose to enter **Da Ci'en Temple**, add **¥10/person**; if you also cli
 
 **Zhangjiajie hotel-location note:** this hotel is **not in the Tianmen/downtown core**; it is a **Zhangjiajie West / Ningbang Plaza base**. That is a good match for this revised itinerary because **Furong, Fenghuang and Chongqing use Zhangjiajie West Railway Station directly**, the Forest Park day uses the **adjacent West-station coach terminal**, and only Tianmen requires a longer city-bus commute.
 
-**Route verification note (checked 10 Sep 2026):** the exact Building 21 / Room 1201 address is listed about **740 m / ~11 min from Zhangjiajie West**; properties in the same building show the **high-speed bus terminal ~600 m away** and the airport around **9.5–10 km away**. Current city-bus information shows **17路 roughly 05:40–20:40** and stops at **张家界航院** and **武陵山珍馆** before reaching the railway-station/Tianmen area. Current Wulingyuan guidance continues to operate a **direct city-scenic bus between Zhangjiajie West and Wulingyuan**, roughly **30–40 min**. Re-check November bus times in **Amap (高德地图) / Baidu Maps (百度地图)** and at the West-station coach counter after arrival, especially the **last Wulingyuan return** and the **airport 4路** late-evening service.
+**Route verification note (updated 19 Oct 2026):** the exact Building 21 / Room 1201 address is listed about **740 m / ~11 min from Zhangjiajie West**; the airport is around **9.5–10 km away**. Current routing shows **Bus 4 (4路) linking Hehua Airport and Zhangjiajie West**, and **17路** serves the 72 Strange Buildings/Tianmen-area corridor with published service around **05:40–20:40**. Zhangjiajie adjusted several city-bus routes in Sep 2026; **8路 currently serves 大庸府城 and 后溶街口 but is published only to around 18:30**, so use Amap/Baidu live routing for the 22 Nov evening return. Current Wulingyuan guidance continues to operate a **direct city-scenic bus between Zhangjiajie West and Wulingyuan**, roughly **30–40 min**. Re-check November bus times and the last Wulingyuan return after arrival. **Tianmen Mountain's official notice says that from 13 Oct 2026 only Route C operates while the main cableway is under renovation; the shuttle between the downtown lower station and Mountain Gate continues to run.**
 
 **Rail-planning note (checked 8 Sep 2026):** current timetable patterns show roughly **17–19 direct trains/day Zhangjiajie West → Fenghuang Gucheng (fastest ~51 min)**, **about 8–11 direct trains/day each way between Zhangjiajie West and Furongzhen (fastest ~23 min)**, and **roughly 26 direct Zhangjiajie West → Chongqing options with fastest journeys around 2 hr**. November 2026 train numbers/times are **not final until the 12306 booking window opens**, so the times above are planning targets rather than bookings.
 
-**Ticket notes for Zhangjiajie/Xiangxi:** Forest Park, Bailong Elevator/Tianzi cableway, Tianmen Mountain and 72 Strange Buildings remain as before. **Grand Canyon/Glass Bridge is no longer part of the core itinerary.** Furong Town is **¥108/adult**. Fenghuang Ancient Town itself is free to walk. Book all four day-trip rail legs (**Zhangjiajie West ↔ Fenghuang Gucheng; Zhangjiajie West ↔ Furongzhen**) and the **24 Nov Zhangjiajie West → Chongqing** train through 12306/Trip.com when sales open.
+**Ticket notes for Zhangjiajie/Xiangxi:** Forest Park, Bailong Elevator/Tianzi cableway and 72 Strange Buildings remain as before. For **22 Nov Tianmen Mountain**, the main cableway renovation means the current plan is **Route C only**; pre-book the applicable timed Route C product and re-check the operating notice shortly before travel. **Dayong Ancient City public streets and Hourong Street are free/no-booking stops.** **Grand Canyon/Glass Bridge is no longer part of the core itinerary.** Furong Town is **¥108/adult**. Fenghuang Ancient Town itself is free to walk. Book all four day-trip rail legs (**Zhangjiajie West ↔ Fenghuang Gucheng; Zhangjiajie West ↔ Furongzhen**) and the **24 Nov Zhangjiajie West → Chongqing** train through 12306/Trip.com when sales open.
 
 ---
 
