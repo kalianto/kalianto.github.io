@@ -76,7 +76,7 @@
 ### Entrance tickets — Chengdu (adult full price, Nov 2026)
 | Place | Adult fee | What the itinerary needs | Booking note |
 |---|---:|---|---|
-| **Kuanzhai Alley / Jinli / Tianfu Square / People's Park / Chunxi Road / New Century Global Center / Chengdu SKP** | **Free** | Public areas / shopping complexes | No general admission; paid attractions inside Global Center are optional |
+| **Kuanzhai Alley / Jinli / Tianfu Square / People's Park / Chunxi Road / New Century Global Center / Chengdu SKP / Jianshe Road Food Street (建设路小吃街 / 建设巷)** | **Free** | Public areas / shopping complexes / food street | No general admission; food/drink purchases extra; paid attractions inside Global Center are optional |
 | **Wuhou Shrine Museum (成都武侯祠博物馆)** — optional while at Jinli | **¥50** | Museum admission only; Jinli remains free | Official museum price; reserve if you decide to enter |
 | **Dujiangyan Irrigation System (都江堰景区)** | **¥60*** | Scenic-area admission | 14 Nov falls in the published 2026 low-season period; confirm the final Nov price when inventory opens |
 | **South Bridge / “Blue Tears” (南桥 / 蓝眼泪)** | **Free** | Outdoor river lighting/nightscape | No show ticket required |
@@ -84,7 +84,7 @@
 
 *Dujiangyan note: current 2026 sources publish a ¥60 low-season adult rate for November, while some live OTA listings still display ¥80 depending on date/inventory. Budget ¥60 but verify in the official 青城山都江堰/悦游都江堰 channel when 14 Nov tickets open.*
 
-### Day 1 — 13 Nov (Arrival + central Chengdu + New Century Global Center + SKP)
+### Day 1 — 13 Nov (Arrival + central Chengdu + New Century Global Center + SKP + Jianshe Road food street)
 | Time | Activity | Route from/to hotel + Transport / Notes |
 |---|---|---|
 | 12:00 | Land Chengdu Shuangliu Airport T2 (成都双流国际机场) | — |
@@ -94,8 +94,10 @@
 | ~17:00–17:35 | **Chunxi Road → New Century Global Center (新世纪环球中心)** | **春熙路 Line 3** → **省体育馆 (Sichuan Gymnasium)** → transfer to **Line 1 southbound** → **锦城广场 (Jincheng Plaza)**. Use the exit signed for **环球中心 / Global Center** (commonly Exit C) and walk roughly **5–10 min** to the complex. |
 | **~17:35–18:45** | **New Century Global Center (新世纪环球中心)** | Explore the immense central atrium, shopping areas and public interior. **General entry is free**; Paradise Island Water Park and other internal attractions are optional/paid and are not part of this short visit. Current public listings show the mall operating roughly **10:00–22:00**. |
 | **~18:45–19:00** | **Global Center → Chengdu SKP (成都SKP)** | Walk east toward **Chengdu SKP / Tower of Life**. The two complexes are in the same Jincheng Plaza cluster, roughly **450–700 m apart depending on entrances**; allow about **7–12 min** on foot. |
-| **19:00–20:45** | **Chengdu SKP – Tower of Life** + dinner/shopping | Explore SKP after dark for the illuminated **Tower of Life / 生机之塔** and dinner. Free public shopping-area access. |
-| ~20:45–21:30 | **SKP → hotel** | Walk back toward **锦城广场站 (Jincheng Plaza)** → **Line 1 northbound** → **省体育馆** → **Line 3 northbound** → **春熙路**. From Chunxi Road either **walk ~10–12 min to the hotel** (simplest at night) or transfer to **Line 2 one stop east to 东门大桥**, then walk ~250 m. |
+| **19:00–20:00** | **Chengdu SKP – Tower of Life** + night photos | Explore SKP after dark for the illuminated **Tower of Life / 生机之塔**. Keep food light here because the main dinner/food crawl is moved to Jianshe Road. Free public shopping-area access. |
+| **~20:00–20:45** | **SKP → Jianshe Road Food Street (建设路小吃街 / 建设巷)** | Walk back to **锦城广场站 (Jincheng Plaza)** → take **Line 1 northbound to 人民北路 (Renmin North Road)** → transfer to **Line 6 toward 兰家沟 (Lanjia Gou)** → get off at **电子科大建设北路 (UESTC & Jianshe North Road)**. Use the exit shown by Amap/Baidu for **建设巷 / 建设路小吃街** (often C-side) and walk roughly **300–500 m** into the snack-street cluster. Allow around **40–50 min** including the transfer and walk. |
+| **20:45–22:00** | **Jianshe Road Food Street / Jianshe Alley (建设路小吃街 / 建设巷)** — food crawl | This is the itinerary's dedicated Chengdu street-food stop: browse the dense **建设巷 + 建设支巷** snack lanes and share small portions so you can try several things. Good candidates include **锅巴土豆 (crispy potatoes), 钵钵鸡, 烤苕皮, 串串, 冰粉** and other Sichuan snacks. The street is free; individual stalls commonly run into late evening, with the best atmosphere after dark. |
+| **~22:00–22:35** | **Jianshe Road → hotel** | Walk back to **电子科大建设北路站** → **Line 6 toward 兰家沟** → **牛王庙 (Niuwangmiao)** → transfer to **Line 2 toward 犀浦 (Xipu)** → **东门大桥 (Dongmen Bridge), 1 stop** → walk ~250 m to the hotel. This is a much cleaner late-night return than routing back through Chunxi Road. Current published last-train times leave a comfortable buffer at this hour, but re-check Amap/Baidu on the day. |
 
 ### Day 2 — 14 Nov (Kuanzhai + Jinli + Dujiangyan + South Bridge “Blue Tears”)
 | Time | Activity | Route from/to hotel + Transport / Notes |
@@ -119,9 +121,9 @@
 | After rail arrival | **Huanglongjiuzhai Station → Jiuzhaigou valley town / park-gate area** | Use the **official/scenic direct shuttle bus** from the railway station to Jiuzhaigou valley; typical road transfer is about **2 hrs**. Book/confirm the matching shuttle after the November rail timetable is fixed. No Didi needed. |
 | Afternoon | Check in, rest/short local walk near town | — |
 
-**Ticket / transport notes for Chengdu:** Tianfu Square, People's Park, Chunxi Road, Kuanzhai Alley, Jinli Street, **New Century Global Center** and Chengdu SKP are free/no booking for general public access. Paid attractions inside Global Center (such as Paradise Island Water Park) are optional and not included in this itinerary. For Dujiangyan, pre-book the **scenic-area entrance** and both **犀浦 ↔ 离堆公园** S-trains. The South Bridge **“Blue Tears” lighting is free** and does **not** need a show/combo ticket. For the Jiuzhaigou transfer, book **成都东 → 黄龙九寨** rail plus the onward valley shuttle once the November schedules are available.
+**Ticket / transport notes for Chengdu:** Tianfu Square, People's Park, Chunxi Road, Kuanzhai Alley, Jinli Street, **New Century Global Center**, Chengdu SKP and **Jianshe Road Food Street / Jianshe Alley (建设路小吃街 / 建设巷)** are free/no booking for general public access. At Jianshe Road, budget only for whatever food/drinks you choose; it is best treated as a **late-evening food crawl rather than another sightseeing attraction**. Paid attractions inside Global Center (such as Paradise Island Water Park) are optional and not included in this itinerary. For Dujiangyan, pre-book the **scenic-area entrance** and both **犀浦 ↔ 离堆公园** S-trains. The South Bridge **“Blue Tears” lighting is free** and does **not** need a show/combo ticket. For the Jiuzhaigou transfer, book **成都东 → 黄龙九寨** rail plus the onward valley shuttle once the November schedules are available.
 
-**Route verification note (checked 1 Sep 2026):** Chengdu metro lines/stations and railway patterns can be adjusted. Re-check the exact platform, last-train time and November S-train/黄龙九寨 timetable in **Amap (高德地图), Baidu Maps (百度地图), Chengdu Metro app, and 12306** shortly before travel.
+**Route verification note (updated 21 Oct 2026):** **Jianshe Road's main snack cluster is around 建设巷 / 建设支巷 near 电子科大建设北路站 (Line 6/17); Line 6 also connects directly to 牛王庙 for the easy transfer to Line 2 and Dongmen Bridge.** Chengdu metro lines/stations and railway patterns can be adjusted. Re-check the exact platform, last-train time and November S-train/黄龙九寨 timetable in **Amap (高德地图), Baidu Maps (百度地图), Chengdu Metro app, and 12306** shortly before travel.
 
 ---
 
